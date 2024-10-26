@@ -1,0 +1,116 @@
+Qualitative Results for Model: deepseek-vl-7b-chat_prompted
+========================================
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/31_Puplit _of_the_Mosque_of_Abu_Bakr_bin_Mazhar/Puplit _of_the_Mosque_of_Abu_Bakr_bin_Mazhar_0013.jpg
+Reference Caption: Pulpit of Mosque of Abu Bakr bin Mazhar: Abu Bakr Mazhar was a Chancellor of the Mamluk Sultan al-Ashraf Qaitbay, He built a mosque in al-Gamaleya, and its wooden pulpit was distinguished by its various decorations especially that of the star polygon forms inlaid with ivory, mother-of-pearl, as well as folial motifs, and inscriptions in kufic script Mamiuk.
+
+Generated Caption: The image shows a large, ornate wooden structure, which appears to be a piece of furniture, possibly a cabinet or a shrine. The structure is intricately carved with detailed patterns and designs, suggesting a high level of craftsmanship. The wood has a rich, dark color, and the carvings are highlighted with lighter inlays, possibly metal or another type of wood.
+
+In the foreground, there is a modern security device, likely a metal detector, with a green digital display indicating that it is operational. The detector is mounted on a pole and is positioned to the right of the wooden structure.
+
+The floor is tiled, and the tiles are arranged in a pattern that extends across the entire visible area. The tiles are light-colored, providing a neutral background that contrasts with the dark wood of the structure.
+
+The image does not provide any additional context or information about the location or the purpose of the wooden structure. The presence of the metal detector suggests that the location may be a place where security is a concern, such as a museum, a historical site, or a religious building. However, without more information, it is not possible to determine the exact nature of the location or the significance of the wooden structure.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/34_Wekalet_al-Ghouri/Wekalet_al-Ghouri_0015.jpg
+Reference Caption: Wekalet al-Ghouri is the remaining part of the Sultan al-Ghouri complex which was built in 1505\6 AD on both sides of AlMuiz Street with its intersection with al-Azhar Street in al-Ghouriya District, and once consisted of a mosque, school, salbil, mausoleum, and a seat for the Sultan. The wekalas were designated for the accommodation of merchants who cisme to Cairo to order to display and store their goods, in addition to concluding commercial deals. Thus, the wekalas could be allocated to one commadity or to a number of goods according to the season, such as the trade in cotton, dates, sugar; sweets and others. The entrance ot Wekalet al-Ghouri is located on its northern facade and leads to a central nave with a fountain in the middle to cool the air.This Wekala consists of a ground floor containing shops for the sale of goods in addition to four floors, the first and second of which were used as warehouses for goods, the third and fourth for the accomondataion of merchants. Usually the expatriate merchants used to rent a vertical sector in the %Wekala to sell their goods and/ for residence as well.
+Generated Caption: The image shows a detailed architectural model of a building, which appears to be a historical or significant structure, possibly a museum or a government building. The model is displayed on a pedestal, suggesting it is part of a collection or exhibit.
+
+The building model is composed of multiple levels, each with distinct architectural features. The ground floor has a series of arches, which could be entrances or windows, and a series of columns that support the structure above. The upper levels have a series of windows and balconies, indicating a multi-story design. The building's facade is adorned with a series of decorative elements, including what appear to be statues or sculptures, which add to the grandeur of the structure.
+
+The model is set against a backdrop of a marble wall, which is a common choice for displaying valuable or historical artifacts, enhancing the importance of the exhibit. The lighting in the room is soft and diffused, which is suitable for showcasing detailed models without causing glare or shadows.
+
+In front of the model, there is a descriptive placard or informational sign, which is typical in museums or galleries to provide context and historical information about the model. The text on the placard is not legible in the image, so the specific details cannot be provided.
+
+The overall setting suggests a museum or gallery environment, where such architectural models are often displayed to educate visitors about the history, design, and significance of the structures they represent. The careful placement of the model, the informative sign, and the elegant backdrop all contribute to creating an educational and visually engaging exhibit.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/4_Royal_Statues/RoyalStatues_0004.jpg
+Reference Caption: Royal Statues: When the Ptolemaic state was established in Egypt, art that arose in Alexandria was in a purely classical style. Then it was soon mixed with ancient Egyptian art and its ancient traditions . Statues of the Ptolemaic kings appeared in Egyptian features mixed with artistic influences from ancient Greece . These two statues depict a king and queen from the Ptolemaic Period in a mixed style that expresses the merging of these two cultures together.
+Generated Caption: The image shows two statues displayed in a museum setting. The statues are positioned on pedestals, with informational placards in front of them. The left statue appears to be a figure with a draped garment, possibly representing a historical or mythological character. The right statue is a more elongated figure, also draped, but with a more pronounced posture. Both statues are made of a dark material, likely bronze or a similar alloy, and are displayed in a way that suggests they are of significant cultural or historical importance. The background is a marble-like floor and walls, typical of a museum environment, and there is a reflection of the statues in the glass display case, indicating that the statues are encased in protective glass. The lighting is even and does not cast harsh shadows, which suggests that the lighting is designed to highlight the details of the statues without causing glare. The placards in front of the statues likely provide information about the statues' origin, purpose, and significance.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/1_the_female_peasent/the_female_peasent_0010.JPG
+Reference Caption: The Femal Peasent: This statue is considered one of the prominent works of the artist Mahmoud Mokhtar, in which he focused the position of the female peasant and her role as one of the main  roles of women in Egyptian society, in the past and present.
+Generated Caption: The image depicts a white sculpture of a seated figure, which appears to be a person in a contemplative or resting pose. The sculpture is mounted on a square base, which is also white, and is positioned on a flat surface, likely a table or a pedestal. The lighting in the image is focused on the sculpture, casting a shadow to the right side of the figure, suggesting a light source from the left.
+
+The figure's pose is one of relaxation, with the head resting on the left arm and the right arm resting on the right thigh. The legs are bent at the knees, and the feet are positioned on the ground. The figure's left hand is placed on the right knee, and the right hand is placed on the left thigh. The figure's left arm is bent at the elbow, with the hand resting on the left thigh, and the right arm is extended outwards.
+
+The sculpture's clothing is minimal, with a draped garment covering the torso and a simple belt around the waist. The garment's folds and drape suggest a soft, possibly flowing material. The sculpture's facial features are not clearly defined, but the head is turned slightly to the left, and the hair appears to be long and flowing.
+
+The background of the image is dark and out of focus, which helps to highlight the sculpture and draw attention to its details. There are no discernible texts or other objects in the image. The overall impression is one of tranquility and introspection, conveyed through the figure's pose and the serene expression on its face.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/26_Mamluk_Lamps/Mamluk_Lamps_0004.jpg
+Reference Caption: Mamluk Lamps : A group of glass lamps decorated with multi colored enamel. which were designated for lighting in religious establishments during the Mamluk period. These lamps are distinguished by It's floral decorations and inscriptions in the Naskh script, which depend mostly on the ayat al Nur. These lamps were lit by means of a wick of cotton or linen placed inside a glass container containing clean oil usually olive oil. This group of lamps belongs to the Sultan Hassan School, N- Nast Muhammad lbn Qalawun School, and Alzahir Barquq School.
+
+Generated Caption: The image shows a collection of ornate, metallic objects that appear to be displayed in a museum or exhibition setting. The central focus is a large, ornate object that resembles a ceremonial or ritual vessel, suspended from the ceiling by chains. This object is the most prominent and is centrally located in the image.
+
+To the left of the central object, there is a smaller, similar vessel hanging from the ceiling. This one is partially obscured by the central object, but its intricate design is still visible.
+
+On the right side of the central object, there is another similar vessel, but this one is hanging from a different angle and is more visible than the one on the left.
+
+In the background, there are additional objects on display, but they are not as prominently featured as the central object. These objects are also metallic and have a similar ornate design, suggesting they are part of the same collection or exhibit.
+
+The setting appears to be a well-lit, indoor space with a reflective floor and walls, which enhances the visibility of the objects. The lighting is focused on the central object, highlighting its details and making it stand out from the other objects in the display.
+
+The image does not provide any direct information about the specific context or the cultural or historical significance of the objects, but their design and presentation suggest they are of significant cultural or historical importance.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/17_Pen_Menkh_TheGovernerOf_Dendara/Pen_Menkh_TheGovernerOf_Dendara_0013.JPG
+Reference Caption: Pen Menkh TheGovernerOf Dendara : he Greco-Roman era, the ruler of the city of Dendera during the reign of Emperor Augustus, called Ibn Mankh, and the statue shows a mixture of the influence of ancient Egyptian art and Hellenistic art.
+Generated Caption: The image depicts a statue of a figure with a draped garment, standing in a room with a modern interior. The statue appears to be made of a dark material, possibly stone or a similar substance, and is positioned with its back to the viewer, showing the side profile. The figure's head is turned slightly to the side, and the hair is styled in a manner that suggests a historical or classical influence.
+
+The room in which the statue is placed has a contemporary design, with a tiled floor and a modern light fixture visible in the background. The lighting in the room casts shadows on the floor, indicating that the statue is illuminated from above.
+
+In the background, there are blurred figures of people, suggesting that the statue is in a public space, possibly a museum or a gallery. The people appear to be walking or standing, and their presence adds a sense of scale to the image, emphasizing the size of the statue.
+
+The image does not provide any explicit textual information or context about the statue or its location. The focus is on the statue itself, and the surrounding environment is minimalistic, allowing the viewer to concentrate on the sculpture without distractions.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/31_Puplit _of_the_Mosque_of_Abu_Bakr_bin_Mazhar/Puplit _of_the_Mosque_of_Abu_Bakr_bin_Mazhar_0005.jpg
+Reference Caption: Pulpit of Mosque of Abu Bakr bin Mazhar: Abu Bakr Mazhar was a Chancellor of the Mamluk Sultan al-Ashraf Qaitbay, He built a mosque in al-Gamaleya, and its wooden pulpit was distinguished by its various decorations especially that of the star polygon forms inlaid with ivory, mother-of-pearl, as well as folial motifs, and inscriptions in kufic script Mamiuk.
+
+Generated Caption: The image shows a large, ornately decorated wooden structure, which appears to be a part of a building or a piece of furniture. The structure is situated in a room with a light-colored floor and walls, which suggests a modern or contemporary setting.
+
+The structure itself is quite intricate, with a variety of patterns and designs carved into the wood. The top of the structure has a pointed arch, which is a common architectural feature in Gothic or Islamic styles. The sides of the structure are adorned with geometric patterns, and there are also some floral motifs visible.
+
+The structure is supported by a metal stand, which is likely there to protect the piece from damage or to allow for better visibility. The stand has a circular base and a vertical pole, which is connected to the structure by a horizontal beam.
+
+The lighting in the room is soft and diffused, with no harsh shadows visible on the structure, which suggests that the lighting is coming from multiple sources and is not overly bright.
+
+There are no people visible in the image, and no other objects are in the immediate vicinity of the structure, which gives the impression that the structure is the main focus of the space.
+
+Overall, the image depicts a piece of art or a historical artifact, displayed in a modern setting, with careful attention to its preservation and presentation.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/29_Model_of_building/Model_of_building_0010.jpg
+Reference Caption: Model of Building: This model shows an apartment building of three stories and was given as an offering In a temple, perhaps to ask for protection for the house. The original would have been made in mudbrick. The wave in the walls was deliberated, helping to support the building and to stabilize it in case of earthquakes.
+Generated Caption: The image shows a display of ancient artifacts, likely from a museum exhibit. The central object is a tall, narrow column with a stepped design, which appears to be a model of a column from an ancient building. The column has multiple levels, each with a different design, including rectangular slots and what appear to be windows or openings.
+
+To the right of the column, there is a smaller, square-shaped model of a building with a flat roof and a wall that has a pattern of rectangles and squares. This model is placed on a wooden base, suggesting it might be a part of the same structure as the column.
+
+In front of the column, there is a small, rectangular plaque with text on it, which likely provides information about the artifacts. The text is not legible in the image, but it is common for museum exhibits to include such informational plaques.
+
+The background of the image is a white wall with a marble-like texture, which is typical for museum settings to provide a neutral backdrop that highlights the artifacts. There is also a partial view of another exhibit in the background, which includes a black and white image and some text, but the details are not clear enough to describe.
+
+The lighting in the image is even and bright, illuminating the artifacts and the surrounding area, which suggests that the photo was taken in a well-lit environment, likely within the museum itself. The overall impression is of a carefully curated display designed to showcase the historical and architectural significance of the artifacts.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/16_Nazlet_Khater_Skeleton/Nazlet_Khater_Skeleton_0010.JPG
+Reference Caption: Nazlet Khater Skeleton :  This skeleton was found buried near Nazlet Khater - Sohag Governorate . It is for a young man who lived 35 thousand years ago , and it appears from his skeleton that he had enjoyed a distinguished height and a strong body , one of his stone tools was discovered beside him .                                                                                                                                                                                                                             Upper Paleolithic / Nazlet Khater.
+Generated Caption: The image displays a human skeleton laid out on a flat surface, which appears to be a table or a similar platform. The skeleton is positioned in a way that the skull is at the bottom left corner of the image, with the spine running vertically from the skull to the right edge of the image. The ribcage is visible, with the spine continuing from the skull and the ribcage extending to the right edge of the image. The arms of the skeleton are spread out, with the left arm positioned slightly higher than the right arm. The hands of the skeleton are open, with the left hand positioned slightly higher than the right hand. The fingers of the hands are spread out, with the left hand's fingers spread more widely than the right hand's fingers. The surface on which the skeleton is laid out is a light beige color, and there are no other objects or people visible in the image.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/35_The_birth_of_Isis/The_birth_of_Isis_0016.JPG
+Reference Caption: The birth of isis: The unique plaque was found near the temple of dendara, it probably depicts the goddess Nut giving birth to the goddess isis on the birth chair, while the goddess of birth with the head of the cow supervises the delivering process.
+Generated Caption: The image shows a display of ancient artifacts, likely from an archaeological or museum setting. On the left side, there is a large, rectangular stone slab with a drawing or inscription on it. The drawing appears to be a representation of a human figure, possibly a deity or a person of importance, with a headdress and a long beard. The figure is depicted in a frontal view, with arms outstretched, and is surrounded by a circular pattern that could represent a halo or a protective boundary.
+
+On the right side of the image, there is a relief carving of a similar human figure, but this one is in a standing position. The figure is also wearing a headdress and has a beard, and it is depicted with arms raised, possibly in a gesture of blessing or protection. The relief is carved into a stone wall, and the figure is surrounded by a series of symbols that could represent hieroglyphs or other ancient writing.
+
+The background of the image is a neutral color, which helps to highlight the artifacts. There is a faint reflection on the surface of the stone slab, indicating that the artifacts are displayed in a glass case or a similar protective enclosure. The lighting in the image is focused on the artifacts, casting shadows and highlighting the details of the carvings.
+
+The artifacts appear to be of significant historical and cultural importance, possibly from an ancient civilization such as Egypt, given the style of the headdresses and the presence of hieroglyphs. The precise dating and interpretation of these artifacts would require further study and expertise in the field of archaeology or ancient history.
+----------------------------------------
+

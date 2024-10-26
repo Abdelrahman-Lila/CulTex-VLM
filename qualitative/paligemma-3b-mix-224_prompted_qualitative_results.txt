@@ -1,0 +1,66 @@
+Qualitative Results for Model: paligemma-3b-mix-224_prompted
+========================================
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/35_The_birth_of_Isis/The birth of Isis_0010.JPG
+Reference Caption: The birth of isis: The unique plaque was found near the temple of dendara, it probably depicts the goddess Nut giving birth to the goddess isis on the birth chair, while the goddess of birth with the head of the cow supervises the delivering process.
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+unanswerable
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/25_Mahalawi_water_ewers/Mahalawi_water_ewers_0008.jpg
+Reference Caption:  "Mahallawi" Water Ewers: A group of "Mahallawi" ewers from the city of "Mahalla al-Kubra: ewers were used for washing before the widespread use of water taps and were usually decorated with designs for birds. they were considered an essential part in the bride's trousseau.
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+Sorry, as a base VLM I am not trained to answer this question.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/50_God_Nilus/God_Nilus_0016.jpg
+Reference Caption: God Nilus : The god Nilus was a symbol of the Nile river , this statue is one of the rare pieces that depicts him in the form of a man leaning on a hippo over a rock from which the water flows , he is surrounded by a group of children symbolizing the high level of the flood .                                                                                                   Roman Period / Qena / Marble.
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+unanswerable
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/18_TheCoffinOf_Lady_Isis/TheCoffinOf_Lady_Isis_0012.JPG
+Reference Caption: The Coffin of Lady Isis : This coffin was discovered in the tomb of Sennedjem among several coffins of the family members . It belongs to Lady Isis , wife of the artisan Khabekhent , son of the Sennedjem The outer cover depicts Isis in a loose robe carrying the sacred ivy leaves , and the coffin is surrounded by the four sons of Horus to protect her body New Kingdom , 19 Dynasty ( 1295 - 1186 BC ) / Deir el - Madina , Thebes / Wood Pigment.
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+unanswerable
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/40_Mashrabiya/Mashrabiya_0007.jpg
+Reference Caption: Mashrabiya "Oriel Window" : 
+"The Organization of Light in Islamic Architecture" Mashrabiya or Oriel windows are among the most important artistic and architectural elements in the Islamic period, being influenced by decorated stone and stucco windows. Generally, The Mashrabiyas were made of lathe wood that allows the natural lght and ventilation to pass through the hollows into the place. Mashrabiyas appeared around the 6th century AH/ 13th century AD and flourished during the Mamluk and Ottoman periods. These windows specifically characterize the Egyptian domestic architecture and without parallel in the world. 
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+Sorry, as a base VLM I am not trained to answer this question.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/30_Muhammad_Ali_Pasha/Muhammad_Ali_Pasha_0016.jpg
+Reference Caption: Muhammad Ali Pasha: (1769 -1849) He was born in "Kavala" in Macedonia, and came to Egypt with an Ottoman military force to fight the French expedهtion Later in 1805 the Egyptians those him as viceroy of Egypt and subsequently, he eliminated the dangers of the Mamluks and the English ambitions in Egypt. Then he seized the Sudan, the Levant, the Arabian Peninsula, and threatened the Ottoman Empire with his troops until the Treaty of London in 1840 granted him the right to become ruler of Egypt and the rule of Egypt is hereditary to his family Muhammad All is considered the founder of modern Egypt, where he established the first Egyptian modern army and naval fleet. He developed military schools and industries, civil industries such as textiles and sugar He also sent scientific missions abroad and set up high schools. Moreover, He built the Benevolent Bridges, dams, and canals to develop irrigation system and expand the .agricultural area, introduced many new crops, and built modern roads and urban expansion throughout Egypt 
+
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+Sorry, as a base VLM I am not trained to answer this question.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/1_the_female_peasent/the_female_peasent_0007.JPG
+Reference Caption: The Femal Peasent: This statue is considered one of the prominent works of the artist Mahmoud Mokhtar, in which he focused the position of the female peasant and her role as one of the main  roles of women in Egyptian society, in the past and present.
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+answering does not require reading text in the image
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/3_Hassan_Fathi/HassanFathi_0012.jpg
+Reference Caption: Hassan Fathi (1900-1989):  Hassan Fathi was born in Alexandri and studied at the University of "Fou'ad I". Known as "sheikh of the Egyptian architects". He was considered as one of the greatest architects in the world . Depending on the traditional architecture in design that allows the natural lighting and ventilation to get through the building . his style of architecture represented the cultural identity and became a symbol of social traditions and values ​​. Of his most famous works the village of Qurna in Luxor , and the village of Paris in al - Wadi al ladid .
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+Sorry, as a base VLM I am not trained to answer this question.
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/7_Ra_Horakhty/Ra_Horakhty_0005.JPG
+Reference Caption: Ra-Horakhty: Ra-Horakhty represented a doctrinal union between the heavenly kingship represented by the god Ra and the earthly kingship represented in the god Horus as an expressionof the authority of the sun god when he dominated the two horizors and was mandested on the earth
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+answering does not require reading text in the image
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/37_The_Kiswa_Covering_of_holy_Kaaba/The_Kiswa_Covering_of_holy_Kaaba_0010.JPG
+Reference Caption: The "Kiswa" Covering of the Holy Kaaba: Manufacture of the "Kiswa" covering of the Holy Kaaba is considered one of the greatest and honorable deeds in Arab and Islamic culture. The tradition of covering the Kaaba goes back to the King "Tubba As'ad al-Kamel" of the Himyarite Kingdom (387-430 AD) as the Arab traditions attributed to him the first covering of the whale Kaaba before Islam, and this tradition continued to the present day. Noteworthy, the drape of Kaaba varied between cotton, velour, linen, and silk. Moreover, its color switched between white, red, green, and yellow until the Abbasid Caliph "al-Ma'mun" (813 - 833 AD) established the current practice of dressing the Kaaba once a year with black silk. Since the reign of the Caliph "Abu Bakr al-Siddiq", making the Kiswa varied between Egypt, Damascus, and Yemen, but during the reign of "Al-Malik as-Salih Najm al-Din Ayyub" (1240-1249 AD), Egypt retained the honor of making the Kiswa and sending it annually to Mecca. Therefore, many textile workshops were established in Tennis, Tuna, and Shata for its manufacture. Noteworthy, the last Kiswa workshop was the "Dar al-Kiswa al-Musharrafah" established by "Muhammad Ali" in al-Khurunfash district in (1818 AD) that included hundreds of the most skilled workers of textile and embroidery, 
+
+Generated Caption: Describe this ancient item in detail to the best of your knowledge. Include information about its origin, historical significance, materials used, craftsmanship, and any known uses or cultural importance. Provide as much context as possible to help understand its place in history.
+unanswerable
+----------------------------------------
+

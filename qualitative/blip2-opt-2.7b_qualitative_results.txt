@@ -1,0 +1,65 @@
+Qualitative Results for Model: blip2-opt-2.7b
+========================================
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/10_The_HolyQuran/The_HolyQuran_0001.jpg
+Reference Caption: The Holy Quran: Finely calligraphed and bound Qurans were highly prized. They were bound In tooled leather and the opening passage (Surat al-Fatiha) In particular was elaborately decorated with floral and geometric motifs, often created using gold leaf.                                                                  1 9th century AD/Holdings of the Alawwite Dynasty.
+Generated Caption: an open book on display in a glass case
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/12_King_Fouad_I/King_Fouad_I_0001.JPG
+Reference Caption: King Fouad I ( 1868-1936 ): The son of Khedive Ismail and the grandson of Muhammad Ali Pasha , he was educated at the private school of Abdin Palace and the Turin Military School . He held the position of the Military Attaché in Vienna , then the chief aide - de - camp of Khedive Abbas Helmy II , and then took over the rule of Egypt in 1917 after the death of Sultan Hussein Kamel . After the 1919 revolution and the declaration of Egypt as an independent kingdom , he changed his title in 1922 to The King of Egypt , Nubia , Kordofan and Darfur . King Fouad was interested in cultural life as he founded the Egyptian University in 1908 , and the Royal Society for Economics , Statistics and Legislation . He also ordered the construction of the parliament building . During his reign , the country's first constitution was established in 1922 , and the first popular ministry was formed , headed by Saad Pasha Zaghloul , and the treaty of 1936 was signed between Egypt and England , which recognizes Egypt as an independent country .
+Generated Caption: a bronze bust of a man with a chain around his neck
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/7_Ra_Horakhty/Ra_Horakhty_0016.JPG
+Reference Caption: Ra-Horakhty: Ra-Horakhty represented a doctrinal union between the heavenly kingship represented by the god Ra and the earthly kingship represented in the god Horus as an expressionof the authority of the sun god when he dominated the two horizors and was mandested on the earth
+Generated Caption: the head of an egyptian statue is shown in this photo
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/13_theVizier_Paser/theVizier_Paser_0006.JPG
+Reference Caption: The vizier Paser:  Paser lived during the reign of Seti I , where he held the title of the sole companion of the king and held many positions as the royal palace advisor , the governor of the city Thebes , and who receives the tribute of the foreign lands for the king . Then , during the reign of Ramses II , he became a judge , a seal bearer and deputy of the king in Nubia where he supervised the construction works of the temple of Abu Simbel . He also assumed the position of high priest and overseer of the Karnak temple until his death in the 25th year of the reign of Ramses II . Paser appears in this statue carrying an altar topped by the head of a ram , the symbol of Amun Ra Lord of Karnak . New Kingdom - 1 9 th Dynasty - reign of Ramesses ( 1279-12180 ) / karnak / Black Granite
+Generated Caption: a statue of an egyptian woman holding a cat
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/17_Pen_Menkh_TheGovernerOf_Dendara/Pen_Menkh_TheGovernerOf_Dendara_0003.JPG
+Reference Caption: Pen Menkh TheGovernerOf Dendara : he Greco-Roman era, the ruler of the city of Dendera during the reign of Emperor Augustus, called Ibn Mankh, and the statue shows a mixture of the influence of ancient Egyptian art and Hellenistic art.
+Generated Caption: a statue of a woman sitting on a bench
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/35_The_birth_of_Isis/The_birth_of_Isis_0011.JPG
+Reference Caption: The birth of isis: The unique plaque was found near the temple of dendara, it probably depicts the goddess Nut giving birth to the goddess isis on the birth chair, while the goddess of birth with the head of the cow supervises the delivering process.
+Generated Caption: an egyptian artifact is displayed in a glass case
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/17_Pen_Menkh_TheGovernerOf_Dendara/Pen_Menkh_TheGovernerOf_Dendara_0013.JPG
+Reference Caption: Pen Menkh TheGovernerOf Dendara : he Greco-Roman era, the ruler of the city of Dendera during the reign of Emperor Augustus, called Ibn Mankh, and the statue shows a mixture of the influence of ancient Egyptian art and Hellenistic art.
+Generated Caption: a statue of an asian woman in a museum
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/34_Wekalet_al-Ghouri/Wekalet_al-Ghouri_0003.jpg
+Reference Caption: Wekalet al-Ghouri is the remaining part of the Sultan al-Ghouri complex which was built in 1505\6 AD on both sides of AlMuiz Street with its intersection with al-Azhar Street in al-Ghouriya District, and once consisted of a mosque, school, salbil, mausoleum, and a seat for the Sultan. The wekalas were designated for the accommodation of merchants who cisme to Cairo to order to display and store their goods, in addition to concluding commercial deals. Thus, the wekalas could be allocated to one commadity or to a number of goods according to the season, such as the trade in cotton, dates, sugar; sweets and others. The entrance ot Wekalet al-Ghouri is located on its northern facade and leads to a central nave with a fountain in the middle to cool the air.This Wekala consists of a ground floor containing shops for the sale of goods in addition to four floors, the first and second of which were used as warehouses for goods, the third and fourth for the accomondataion of merchants. Usually the expatriate merchants used to rent a vertical sector in the %Wekala to sell their goods and/ for residence as well.
+Generated Caption: a model of a building on display in a museum
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/35_The_birth_of_Isis/The_birth_of_Isis_0013.JPG
+Reference Caption: The birth of isis: The unique plaque was found near the temple of dendara, it probably depicts the goddess Nut giving birth to the goddess isis on the birth chair, while the goddess of birth with the head of the cow supervises the delivering process.
+Generated Caption: an ancient egyptian carving on display in a museum
+
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/42_Baker/Baker_0008.jpg
+Reference Caption: Baker :
+Bread was an essential part of the diet of the ancient Egyptians, it was usually made from emmer wheat, though barley could also be used. This statue depicts a woman protecting her face with her hand from the heat of the oven while baking bread. 
+Old Kingdom- late of 4th Dynasty (2613 - 2494 BC) / Giza / Limestone. 
+Generated Caption: an egyptian vase and a statue sitting next to each other
+
+----------------------------------------
+

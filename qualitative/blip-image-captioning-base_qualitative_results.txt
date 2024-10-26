@@ -1,0 +1,54 @@
+Qualitative Results for Model: blip-image-captioning-base
+========================================
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/16_Nazlet_Khater_Skeleton/Nazlet_Khater_Skeleton_0001.jpg
+Reference Caption: Nazlet Khater Skeleton :  This skeleton was found buried near Nazlet Khater - Sohag Governorate . It is for a young man who lived 35 thousand years ago , and it appears from his skeleton that he had enjoyed a distinguished height and a strong body , one of his stone tools was discovered beside him .                                                                                                                                                                                                                             Upper Paleolithic / Nazlet Khater.
+Generated Caption: an animal skeleton on display in a museum
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/21_A_silo/A_silo_0005.jpg
+Reference Caption: A Silo: Silos were used to store grains, mainly wheat and barley. The grains were poured in bon the top and taken out from lower down. Both openings were sealed with wood and /or day. This silo is one of the earliest surviving portable examples. 
+Generated Caption: a couple of vases sitting on top of a table
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/14_Sphinxof_theking_Amenemhat_III/Sphinxof_theking_Amenemhat_III_0006.JPG
+Reference Caption: Sphinxof_theking_Amenemhat_III:  The statues of the Sphinx represent the living king sitting on the throne as the image of the god " Shu " , which was always depicted in the form of a crouching lion controlling the borders of the universe, and this statue was one of the statues of King Amenemhat III that surrounded the procession road in front of his great temple in Hawara. The Middle Kingdom - The Divine Dynasty (1795-1795 BC).
+Generated Caption: a bronze statue of a bear with its mouth open
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/5_Greek_Statues/Greek_Statues_0005.jpg
+Reference Caption: Greek Statues: The art of ancient Greece had a tremendous impact on enriching the culture of many countries from antiquity to the present, especially in the fields of sculpture and architecture.Sculpture in ancient Greece idealized aesthetic art insofar as it alone could reach human creativity.
+Generated Caption: a close up of a statue on a wall
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/33_The_Madrasaa_and_Mosque_of_Sultan_Hassan/The_Madrasaa_and_Mosque_of_Sultan_Hassan_0015.jpg
+Reference Caption: The Madrasa and Mosque of Sultan Hassan:  The Madrasa(school) and Mosque of Sultan Hassan is one of the greatest acheivements of islamic  architecture as a whole. It was built by Sultan Al-Nasir Hassan ibn Muhammed ibn Qalawun in 1356 AD, and was completed by Prince Bashir Agha Al-jumdar in 1362 AD. It's distinguished by it's architectural structure that is consistent with it's size and height with an area of about 7906 m and a height of 37.80 m. The main enterance to the school is located on its northeastern facade and is considered one of the signs of islamic art and architecture. The madrasa consists of a central nave with a fountain in the ,middle topped by a dome mounted on eight coloumns. The nave is surrounded by four lwans for teaching the four sunni sects. The Qibla lwan is deocorated with a rare frieze of floral kufic calligraphy of verses from the holy Quraan. The school also contains housing for students spread over three floors in addition to a bimaristan(hospital), Restaurants and buidlings to serve scholars.
+Generated Caption: a model of a building with a clock on top of it
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/18_TheCoffinOf_Lady_Isis/TheCoffinOf_Lady_Isis_0001.JPG
+Reference Caption: The Coffin of Lady Isis : This coffin was discovered in the tomb of Sennedjem among several coffins of the family members . It belongs to Lady Isis , wife of the artisan Khabekhent , son of the Sennedjem The outer cover depicts Isis in a loose robe carrying the sacred ivy leaves , and the coffin is surrounded by the four sons of Horus to protect her body New Kingdom , 19 Dynasty ( 1295 - 1186 BC ) / Deir el - Madina , Thebes / Wood Pigment.
+Generated Caption: an ancient object on display in a museum
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/37_The_Kiswa_Covering_of_holy_Kaaba/The_Kiswa_Covering_of_holy_Kaaba_0009.JPG
+Reference Caption: The "Kiswa" Covering of the Holy Kaaba: Manufacture of the "Kiswa" covering of the Holy Kaaba is considered one of the greatest and honorable deeds in Arab and Islamic culture. The tradition of covering the Kaaba goes back to the King "Tubba As'ad al-Kamel" of the Himyarite Kingdom (387-430 AD) as the Arab traditions attributed to him the first covering of the whale Kaaba before Islam, and this tradition continued to the present day. Noteworthy, the drape of Kaaba varied between cotton, velour, linen, and silk. Moreover, its color switched between white, red, green, and yellow until the Abbasid Caliph "al-Ma'mun" (813 - 833 AD) established the current practice of dressing the Kaaba once a year with black silk. Since the reign of the Caliph "Abu Bakr al-Siddiq", making the Kiswa varied between Egypt, Damascus, and Yemen, but during the reign of "Al-Malik as-Salih Najm al-Din Ayyub" (1240-1249 AD), Egypt retained the honor of making the Kiswa and sending it annually to Mecca. Therefore, many textile workshops were established in Tennis, Tuna, and Shata for its manufacture. Noteworthy, the last Kiswa workshop was the "Dar al-Kiswa al-Musharrafah" established by "Muhammad Ali" in al-Khurunfash district in (1818 AD) that included hundreds of the most skilled workers of textile and embroidery, 
+
+Generated Caption: a close up of a piece of art on a table
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/13_theVizier_Paser/theVizier_Paser_0010.JPG
+Reference Caption: The vizier Paser:  Paser lived during the reign of Seti I , where he held the title of the sole companion of the king and held many positions as the royal palace advisor , the governor of the city Thebes , and who receives the tribute of the foreign lands for the king . Then , during the reign of Ramses II , he became a judge , a seal bearer and deputy of the king in Nubia where he supervised the construction works of the temple of Abu Simbel . He also assumed the position of high priest and overseer of the Karnak temple until his death in the 25th year of the reign of Ramses II . Paser appears in this statue carrying an altar topped by the head of a ram , the symbol of Amun Ra Lord of Karnak . New Kingdom - 1 9 th Dynasty - reign of Ramesses ( 1279-12180 ) / karnak / Black Granite
+Generated Caption: the head of an egyptian statue
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/17_Pen_Menkh_TheGovernerOf_Dendara/Pen_Menkh_TheGovernerOf_Dendara_0014.JPG
+Reference Caption: Pen Menkh TheGovernerOf Dendara : he Greco-Roman era, the ruler of the city of Dendera during the reign of Emperor Augustus, called Ibn Mankh, and the statue shows a mixture of the influence of ancient Egyptian art and Hellenistic art.
+Generated Caption: a statue of a bear is on display in a museum
+----------------------------------------
+
+Image Path: /home/abdelrahman.elsayed/GP/dataset/training_set/38_AQueen_in_the_form_of_the_Sphinx/AQueen_in_the_form_of_the_Sphinx_0012.JPG
+Reference Caption: A Queen in the form of the Sphinx: This statue is considered one of the oldest statues made in the form of the Sphinx for one of the ancient Egyptian queens, it is attributed to Queen Heterepheres II the daughter of the  King Khufu, this rare form statue of queens may indicate her assumption of the throne, what indeed expressed the Egyptians appreciirtion for women, and their reverence for her as a mother, a sister, a wife, a ruler and a goddess as well.
+Generated Caption: a statue of a lion on display in a museum
+----------------------------------------
+
