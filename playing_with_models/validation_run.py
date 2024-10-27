@@ -30,6 +30,8 @@ import os
 import gc
 import yaml
 from groq import Groq
+import tensorflow_hub as hub
+import tensorflow as tf
 import re
 import time
 
@@ -133,6 +135,9 @@ class ModelValidator:
             self.prompt = prompt
         else:
             self.prompt = None
+
+        if self.config["params"]["semantic"] == "senEnc":
+            self.embed = hub.load("https://www.kaggle.com/models/google/universal-sentence-encoder/TensorFlow2/universal-sentence-encoder/2")
 
         if model is not None and processor is not None:
             self.model = model
@@ -340,15 +345,25 @@ class ModelValidator:
         finally:
             self.last_request_time = time.time()
 
+
+
+    def sentence_encoding_semantic_similarity(self, generated_caption, reference_caption):
+        embeddings = self.embed([generated_caption, reference_caption])
+
+        cosine_similarity = -1 * tf.keras.losses.cosine_similarity(embeddings[0], embeddings[1]).numpy()
+        return cosine_similarity
+        
+
+
     def calculate_metrics(
-        self, generated_caption, reference_caption, is_semantic=False
+        self, generated_caption, reference_caption, semantic="None"
     ):
         """Calculate multiple metrics for a single caption pair"""
         # Prepare inputs
         prediction = generated_caption.lower().split()
         reference = [reference_caption.lower().split()]
 
-        if is_semantic is False:
+        if semantic == "None":
             smoothing = SmoothingFunction().method1
 
             # Calculate BLEU scores
@@ -397,9 +412,15 @@ class ModelValidator:
                 "rougeL": rouge_scores["rougeL"].fmeasure,
                 "meteor": meteor_score,
             }
-        else:
+        elif semantic == "Grog":
             # get our new guy
             semantic_similarity = self.calculate_semantic_similarity(
+                generated_caption, reference_caption
+            )
+            return {"semantic_similarity": semantic_similarity}
+        elif semantic == "senEnc":
+            # get our new guy
+            semantic_similarity = self.sentence_encoding_semantic_similarity(
                 generated_caption, reference_caption
             )
             return {"semantic_similarity": semantic_similarity}
@@ -433,7 +454,7 @@ class ModelValidator:
             metrics = self.calculate_metrics(
                 generated_caption,
                 item["caption_english"],
-                is_semantic=config["params"]["semantic"],
+                semantic=config["params"]["semantic"],
             )
 
             # Store results

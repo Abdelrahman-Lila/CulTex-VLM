@@ -1,4 +1,4 @@
 model:
   arch: "deepseek"
 params:
-    semantic: False
+    semantic: "Grog"
