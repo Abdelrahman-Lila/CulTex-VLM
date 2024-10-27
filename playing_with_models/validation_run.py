@@ -1,3 +1,7 @@
+# Install dependencies
+os.system("pip install -r requirements.txt")
+
+
 import torch
 from PIL import Image
 import evaluate
@@ -15,15 +19,19 @@ from transformers import (
     ChameleonForConditionalGeneration,
     AutoModelForVision2Seq,
     AutoModelForCausalLM,
+    Qwen2VLForConditionalGeneration,
 )
 from deepseek_vl.models import VLChatProcessor, MultiModalityCausalLM
 from deepseek_vl.utils.io import load_pil_images
+from qwen_vl_utils import process_vision_info
 import pandas as pd
 from datasets import Dataset
 import os
 import gc
 import yaml
 from groq import Groq
+import tensorflow_hub as hub
+import tensorflow as tf
 import re
 import time
 
@@ -61,6 +69,29 @@ class ImageCaptioningDataset(torch.utils.data.Dataset):
                 conversations=conversation, images=pil_images, force_batchify=True
             ).to(self.model.device)
             inputs = self.model.prepare_inputs_embeds(**prepare_inputs)
+        elif config["model"]["arch"] == "qwen":
+            conversation = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image",
+                        "image": image_path},
+                        {"type": "text",
+                        "text": "Describe this image."},
+                    ],
+                },
+            ]
+            # load images and prepare for inputs
+            text = self.processor.apply_chat_template(conversation, tokenize=False, add_generation_prompt=True)
+            image_inputs, video_inputs = process_vision_info(conversation)
+            inputs = self.processor(
+                text=[text],
+                images=image_inputs,
+                videos=video_inputs,
+                padding=True,
+                return_tensors="pt",
+            )
+            inputs = inputs.to(self.model.device)
         else:
             image = Image.open(image_path).convert("RGB")
             if self.prompt is not None:
@@ -88,7 +119,7 @@ print("\nThe current config", config)
 
 
 class ModelValidator:
-    def __init__(self, config, model_path=None, processor_path=None, prompt=None):
+    def __init__(self, config, model_path=None, processor_path=None, model=None, processor=None ,prompt=None):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.config = config
         self.last_request_time = time.time()
@@ -105,55 +136,70 @@ class ModelValidator:
         else:
             self.prompt = None
 
-        # Load model and processor
-        if self.config["model"]["arch"] == "BLIP":
-            assert model_path is not None, "Provide the model path"
-            assert processor_path is not None, "Provide the processor path"
-            self.model = BlipForConditionalGeneration.from_pretrained(
-                model_path,
-            )
-            self.processor = BlipProcessor.from_pretrained(processor_path)
-            self.model = self.model.to(self.device)
-        elif self.config["model"]["arch"] == "cham":
-            assert model_path is not None, "Provide the model path"
-            assert processor_path is not None, "Provide the processor path"
-            self.model = ChameleonForConditionalGeneration.from_pretrained(
-                model_path, torch_dtype=torch.bfloat16, device_map="cuda"
-            ).to(self.device)
-            self.processor = ChameleonProcessor.from_pretrained(processor_path)
-        elif self.config["model"]["arch"] == "idefics":
-            assert model_path is not None, "Provide the model path"
-            assert processor_path is not None, "Provide the processor path"
-            self.model = AutoModelForVision2Seq.from_pretrained(
-                model_path, torch_dtype=torch.bfloat16
-            ).to(self.device)
-            self.processor = AutoProcessor.from_pretrained(processor_path)
-        elif self.config["model"]["arch"] == "deepseek":
-            assert model_path is not None, "Provide the model path"
-            assert processor_path is not None, "Provide the processor path"
-            self.processor = VLChatProcessor.from_pretrained(model_path)
-            self.tokenizer = self.processor.tokenizer
-            vl_gpt: MultiModalityCausalLM = AutoModelForCausalLM.from_pretrained(
-                model_path, trust_remote_code=True
-            )
-            self.model = vl_gpt.to(torch.bfloat16).cuda().eval()
-            # self.model.gradient_checkpointing_enable()
-        elif self.config["model"]["arch"] == "Pali":
-            assert model_path is not None, "Provide the model path"
-            assert processor_path is not None, "Provide the processor path"
-            model_id = "google/paligemma-3b-mix-224"
-            self.model = PaliGemmaForConditionalGeneration.from_pretrained(model_id).to(
-                self.device
-            )
-            self.processor = AutoProcessor.from_pretrained(model_id)
+        if self.config["params"]["semantic"] == "senEnc":
+            self.embed = hub.load("https://www.kaggle.com/models/google/universal-sentence-encoder/TensorFlow2/universal-sentence-encoder/2")
+
+        if model is not None and processor is not None:
+            self.model = model
+            self.processor = processor
         else:
-            # Load default model
-            self.model = Blip2ForConditionalGeneration.from_pretrained(
-                "Salesforce/blip2-opt-2.7b",
-                torch_dtype=torch.float16,
-                device_map="auto",
-            )
-            self.processor = AutoProcessor.from_pretrained("Salesforce/blip2-opt-2.7b")
+            # Load model and processor
+            if self.config["model"]["arch"] == "BLIP":
+                assert model_path is not None, "Provide the model path"
+                assert processor_path is not None, "Provide the processor path"
+                self.model = BlipForConditionalGeneration.from_pretrained(
+                    model_path,
+                )
+                self.processor = BlipProcessor.from_pretrained(processor_path)
+                self.model = self.model.to(self.device)
+            elif self.config["model"]["arch"] == "cham":
+                assert model_path is not None, "Provide the model path"
+                assert processor_path is not None, "Provide the processor path"
+                self.model = ChameleonForConditionalGeneration.from_pretrained(
+                    model_path, torch_dtype=torch.bfloat16, device_map="cuda"
+                ).to(self.device)
+                self.processor = ChameleonProcessor.from_pretrained(processor_path)
+            elif self.config["model"]["arch"] == "idefics":
+                assert model_path is not None, "Provide the model path"
+                assert processor_path is not None, "Provide the processor path"
+                self.model = AutoModelForVision2Seq.from_pretrained(
+                    model_path, torch_dtype=torch.bfloat16
+                ).to(self.device)
+                self.processor = AutoProcessor.from_pretrained(processor_path)
+            elif self.config["model"]["arch"] == "deepseek":
+                assert model_path is not None, "Provide the model path"
+                assert processor_path is not None, "Provide the processor path"
+                self.processor = VLChatProcessor.from_pretrained(model_path)
+                self.tokenizer = self.processor.tokenizer
+                vl_gpt: MultiModalityCausalLM = AutoModelForCausalLM.from_pretrained(
+                    model_path, trust_remote_code=True
+                )
+                self.model = vl_gpt.to(torch.bfloat16).cuda().eval()
+                # self.model.gradient_checkpointing_enable()
+            elif self.config["model"]["arch"] == "Pali":
+                assert model_path is not None, "Provide the model path"
+                assert processor_path is not None, "Provide the processor path"
+                model_id = "google/paligemma-3b-mix-224"
+                self.model = PaliGemmaForConditionalGeneration.from_pretrained(model_id).to(
+                    self.device
+                )
+                self.processor = AutoProcessor.from_pretrained(model_id)
+            elif self.config["model"]["arch"] == "quen":
+                assert model_path is not None, "Provide the model path"
+                assert processor_path is not None, "Provide the processor path"
+                model_id = "Qwen/Qwen2-VL-2B-Instruct"
+                self.model = Qwen2VLForConditionalGeneration.from_pretrained(model_id).to(
+                    self.device
+                )
+                self.processor = AutoProcessor.from_pretrained(model_id)
+            else:
+                # Load default model
+                self.model = Blip2ForConditionalGeneration.from_pretrained(
+                    "Salesforce/blip2-opt-2.7b",
+                    torch_dtype=torch.float16,
+                    device_map="auto",
+                )
+                self.processor = AutoProcessor.from_pretrained("Salesforce/blip2-opt-2.7b")
 
         self.model.eval()  # Set model to evaluation mode
 
@@ -191,6 +237,43 @@ class ModelValidator:
                     outputs[0].cpu().tolist(), skip_special_tokens=True
                 )
                 return answer
+            except Exception as e:
+                print(f"Error generating caption for {image_path}: {str(e)}")
+                return ""
+        elif self.config["model"]["arch"] == "qwen":
+            conversation = [
+                {
+                    "role": "user",
+                    "content": [
+                        {"type": "image",
+                        "image": image_path},
+                        {"type": "text",
+                        "text": "Describe this image."},
+                    ],
+                },
+              ]
+            try:
+            # load images and prepare for inputs
+                text = processor.apply_chat_template(conversation, tokenize=False, add_generation_prompt=True)
+                image_inputs, video_inputs = process_vision_info(conversation)
+                inputs = processor(
+                    text=[text],
+                    images=image_inputs,
+                    videos=video_inputs,
+                    padding=True,
+                    return_tensors="pt",
+                )
+                inputs = inputs.to("cuda")
+
+                with torch.no_grad():
+                    outputs = self.model.generate(
+                        **inputs,
+                        max_new_tokens=max_new_tokens,
+                        max_length= max_new_tokens,
+                    )
+                outputs_trimmed = [out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
+                caption = self.processor.batch_decode(outputs_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)
+                return caption
             except Exception as e:
                 print(f"Error generating caption for {image_path}: {str(e)}")
                 return ""
@@ -262,15 +345,25 @@ class ModelValidator:
         finally:
             self.last_request_time = time.time()
 
+
+
+    def sentence_encoding_semantic_similarity(self, generated_caption, reference_caption):
+        embeddings = self.embed([generated_caption, reference_caption])
+
+        cosine_similarity = -1 * tf.keras.losses.cosine_similarity(embeddings[0], embeddings[1]).numpy()
+        return cosine_similarity
+        
+
+
     def calculate_metrics(
-        self, generated_caption, reference_caption, is_semantic=False
+        self, generated_caption, reference_caption, semantic="None"
     ):
         """Calculate multiple metrics for a single caption pair"""
         # Prepare inputs
         prediction = generated_caption.lower().split()
         reference = [reference_caption.lower().split()]
 
-        if is_semantic is False:
+        if semantic == "None":
             smoothing = SmoothingFunction().method1
 
             # Calculate BLEU scores
@@ -319,9 +412,15 @@ class ModelValidator:
                 "rougeL": rouge_scores["rougeL"].fmeasure,
                 "meteor": meteor_score,
             }
-        else:
+        elif semantic == "Grog":
             # get our new guy
             semantic_similarity = self.calculate_semantic_similarity(
+                generated_caption, reference_caption
+            )
+            return {"semantic_similarity": semantic_similarity}
+        elif semantic == "senEnc":
+            # get our new guy
+            semantic_similarity = self.sentence_encoding_semantic_similarity(
                 generated_caption, reference_caption
             )
             return {"semantic_similarity": semantic_similarity}
@@ -355,7 +454,7 @@ class ModelValidator:
             metrics = self.calculate_metrics(
                 generated_caption,
                 item["caption_english"],
-                is_semantic=config["params"]["semantic"],
+                semantic=config["params"]["semantic"],
             )
 
             # Store results
