@@ -1,0 +1,7 @@
+bitsandbytes
+accelerate 
+transformers
+evaluate
+rouge-score
+qwen-vl-utils
+grog
