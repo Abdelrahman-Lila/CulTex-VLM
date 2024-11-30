@@ -1,7 +1,7 @@
+import os
+
 # Install dependencies
 os.system("pip install -r requirements.txt")
-
-
 import torch
 from PIL import Image
 import evaluate
@@ -26,7 +26,6 @@ from deepseek_vl.utils.io import load_pil_images
 from qwen_vl_utils import process_vision_info
 import pandas as pd
 from datasets import Dataset
-import os
 import gc
 import yaml
 from groq import Groq
@@ -34,10 +33,11 @@ import tensorflow_hub as hub
 import tensorflow as tf
 import re
 import time
+from arrow_data_processor import ArrowDataProcessor
 
 
 class ImageCaptioningDataset(torch.utils.data.Dataset):
-    def __init__(self, dataset, model,processor, device, prompt=None):
+    def __init__(self, dataset, model, processor, device, prompt=None):
         self.dataset = dataset
         self.processor = processor
         self.device = device
@@ -74,15 +74,15 @@ class ImageCaptioningDataset(torch.utils.data.Dataset):
                 {
                     "role": "user",
                     "content": [
-                        {"type": "image",
-                        "image": image_path},
-                        {"type": "text",
-                        "text": "Describe this image."},
+                        {"type": "image", "image": image_path},
+                        {"type": "text", "text": "Describe this image."},
                     ],
                 },
             ]
             # load images and prepare for inputs
-            text = self.processor.apply_chat_template(conversation, tokenize=False, add_generation_prompt=True)
+            text = self.processor.apply_chat_template(
+                conversation, tokenize=False, add_generation_prompt=True
+            )
             image_inputs, video_inputs = process_vision_info(conversation)
             inputs = self.processor(
                 text=[text],
@@ -95,7 +95,9 @@ class ImageCaptioningDataset(torch.utils.data.Dataset):
         else:
             image = Image.open(image_path).convert("RGB")
             if self.prompt is not None:
-                print(f"\nUsing the prompt {self.prompt} with ImageCaptioningDataset Class")
+                print(
+                    f"\nUsing the prompt {self.prompt} with ImageCaptioningDataset Class"
+                )
                 inputs = self.processor(
                     images=[image], text=self.prompt, return_tensors="pt"
                 ).to(self.device, torch.bfloat16)
@@ -119,7 +121,15 @@ print("\nThe current config", config)
 
 
 class ModelValidator:
-    def __init__(self, config, model_path=None, processor_path=None, model=None, processor=None ,prompt=None):
+    def __init__(
+        self,
+        config,
+        model_path=None,
+        processor_path=None,
+        model=None,
+        processor=None,
+        prompt=None,
+    ):
         self.device = "cuda" if torch.cuda.is_available() else "cpu"
         self.config = config
         self.last_request_time = time.time()
@@ -137,7 +147,9 @@ class ModelValidator:
             self.prompt = None
 
         if self.config["params"]["semantic"] == "senEnc":
-            self.embed = hub.load("https://www.kaggle.com/models/google/universal-sentence-encoder/TensorFlow2/universal-sentence-encoder/2")
+            self.embed = hub.load(
+                "https://www.kaggle.com/models/google/universal-sentence-encoder/TensorFlow2/universal-sentence-encoder/2"
+            )
 
         if model is not None and processor is not None:
             self.model = model
@@ -180,17 +192,17 @@ class ModelValidator:
                 assert model_path is not None, "Provide the model path"
                 assert processor_path is not None, "Provide the processor path"
                 model_id = "google/paligemma-3b-mix-224"
-                self.model = PaliGemmaForConditionalGeneration.from_pretrained(model_id).to(
-                    self.device
-                )
+                self.model = PaliGemmaForConditionalGeneration.from_pretrained(
+                    model_id
+                ).to(self.device)
                 self.processor = AutoProcessor.from_pretrained(model_id)
             elif self.config["model"]["arch"] == "quen":
                 assert model_path is not None, "Provide the model path"
                 assert processor_path is not None, "Provide the processor path"
                 model_id = "Qwen/Qwen2-VL-2B-Instruct"
-                self.model = Qwen2VLForConditionalGeneration.from_pretrained(model_id).to(
-                    self.device
-                )
+                self.model = Qwen2VLForConditionalGeneration.from_pretrained(
+                    model_id
+                ).to(self.device)
                 self.processor = AutoProcessor.from_pretrained(model_id)
             else:
                 # Load default model
@@ -199,7 +211,9 @@ class ModelValidator:
                     torch_dtype=torch.float16,
                     device_map="auto",
                 )
-                self.processor = AutoProcessor.from_pretrained("Salesforce/blip2-opt-2.7b")
+                self.processor = AutoProcessor.from_pretrained(
+                    "Salesforce/blip2-opt-2.7b"
+                )
 
         self.model.eval()  # Set model to evaluation mode
 
@@ -245,16 +259,16 @@ class ModelValidator:
                 {
                     "role": "user",
                     "content": [
-                        {"type": "image",
-                        "image": image_path},
-                        {"type": "text",
-                        "text": "Describe this image."},
+                        {"type": "image", "image": image_path},
+                        {"type": "text", "text": "Describe this image."},
                     ],
                 },
-              ]
+            ]
             try:
-            # load images and prepare for inputs
-                text = processor.apply_chat_template(conversation, tokenize=False, add_generation_prompt=True)
+                # load images and prepare for inputs
+                text = processor.apply_chat_template(
+                    conversation, tokenize=False, add_generation_prompt=True
+                )
                 image_inputs, video_inputs = process_vision_info(conversation)
                 inputs = processor(
                     text=[text],
@@ -269,10 +283,17 @@ class ModelValidator:
                     outputs = self.model.generate(
                         **inputs,
                         max_new_tokens=max_new_tokens,
-                        max_length= max_new_tokens,
+                        max_length=max_new_tokens,
                     )
-                outputs_trimmed = [out_ids[len(in_ids) :] for in_ids, out_ids in zip(inputs.input_ids, generated_ids)]
-                caption = self.processor.batch_decode(outputs_trimmed, skip_special_tokens=True, clean_up_tokenization_spaces=False)
+                outputs_trimmed = [
+                    out_ids[len(in_ids) :]
+                    for in_ids, out_ids in zip(inputs.input_ids, generated_ids)
+                ]
+                caption = self.processor.batch_decode(
+                    outputs_trimmed,
+                    skip_special_tokens=True,
+                    clean_up_tokenization_spaces=False,
+                )
                 return caption
             except Exception as e:
                 print(f"Error generating caption for {image_path}: {str(e)}")
@@ -345,19 +366,17 @@ class ModelValidator:
         finally:
             self.last_request_time = time.time()
 
-
-
-    def sentence_encoding_semantic_similarity(self, generated_caption, reference_caption):
+    def sentence_encoding_semantic_similarity(
+        self, generated_caption, reference_caption
+    ):
         embeddings = self.embed([generated_caption, reference_caption])
 
-        cosine_similarity = -1 * tf.keras.losses.cosine_similarity(embeddings[0], embeddings[1]).numpy()
+        cosine_similarity = (
+            -1 * tf.keras.losses.cosine_similarity(embeddings[0], embeddings[1]).numpy()
+        )
         return cosine_similarity
-        
 
-
-    def calculate_metrics(
-        self, generated_caption, reference_caption, semantic="None"
-    ):
+    def calculate_metrics(self, generated_caption, reference_caption, semantic="None"):
         """Calculate multiple metrics for a single caption pair"""
         # Prepare inputs
         prediction = generated_caption.lower().split()
@@ -533,8 +552,7 @@ def create_image_caption_pairs(df, image_root_folder, batch_size=10):
     if data:  # Yield remaining data
         yield data
 
-
-def main():
+    # def main():
     excel_file = "/home/abdelrahman.elsayed/GP/dataset/data set.xlsx"
     image_root_folder = "/home/abdelrahman.elsayed/GP/dataset/training_set"
 
@@ -563,7 +581,11 @@ def main():
     )
 
     eval_dataset = ImageCaptioningDataset(
-        train_test_split["test"],validator.model, validator.processor, validator.device, prompt=text
+        train_test_split["test"],
+        validator.model,
+        validator.processor,
+        validator.device,
+        prompt=text,
     )
 
     print("\nThe eval dataset", len(eval_dataset))
@@ -589,6 +611,45 @@ def main():
     print("\nValidation Results:")
     for metric, value in avg_metrics.items():
         print(f"{metric}: {value:.4f}")
+
+
+def main():
+    dataset_folder = "../NoCaps_dataset/validation"
+
+    # Initialize and process Arrow data
+    processor = ArrowDataProcessor(dataset_folder)
+    processed_dataset = processor.process()
+
+    # Train-test split
+    train_test_split = processed_dataset.train_test_split(test_size=0.2)
+
+    model_path = "model-path"
+    processor_path = "processor-path"
+    validator = ModelValidator(
+        model_path=model_path, processor_path=processor_path, config=config
+    )
+
+    # Create evaluation dataset
+    eval_dataset = ImageCaptioningDataset(
+        train_test_split["test"], validator.model, validator.processor, validator.device
+    )
+
+    # Validate dataset
+    all_metrics, avg_metrics = validator.validate_dataset(
+        eval_dataset, model_name="arrow_model"
+    )
+
+    # Save results
+    output_path = "model_results"
+    validator.save_results(all_metrics, avg_metrics, output_path=output_path)
+
+    # Display results
+    print("\nValidation Results:")
+    for metric, value in avg_metrics.items():
+        print(f"{metric}: {value:.4f}")
+
+    # Clean up temporary images
+    processor.cleanup()
 
 
 if __name__ == "__main__":
