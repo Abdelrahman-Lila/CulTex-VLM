@@ -4,10 +4,10 @@ import requests
 import pandas as pd
 from tqdm import tqdm
 
-input_csv = "data.csv"               
-output_csv = "data_preprocessed.csv"  
+input_csv = "unique_questions_reduced.csv"               
+output_csv = "data_unique_preprocessed.csv"  
 image_cache_dir = "image_cache_output"      
-alpha = 0.1 
+alpha = 1
 
 os.makedirs(image_cache_dir, exist_ok=True)
 
