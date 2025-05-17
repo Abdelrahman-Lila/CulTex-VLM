@@ -1,0 +1,10 @@
+bitsandbytes
+accelerate 
+transformers
+evaluate
+rouge-score
+deepseek_vl
+qwen-vl-utils
+grog
+tensorflow_hub
+tensorflow
