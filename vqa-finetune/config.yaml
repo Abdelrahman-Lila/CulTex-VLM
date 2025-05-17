@@ -1,16 +1,16 @@
 data:
-  format: json
-  path: /home/abdelrahman.elsayed/GP/vqa-finetune/data_preprocessed.csv
+  format: csv
+  path: /home/abdelrahman.elsayed/GP/vqa-finetune/data_unique_preprocessed.csv
 
 model:
   name: blip
   type: large
-  ft : lora
+  ft : full
   alpha: 1
   val_freq: 2
-  num_epochs: 50
+  num_epochs: 10
   patience: 10
-  batch_size: 24
+  batch_size: 12
   learning_rate: 1e-5
   lora:
     rank: 8
