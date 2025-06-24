@@ -1,4 +1,4 @@
-# CulTex-VLM: Cultural Heritage Vision-Language Models
+# CulTex-VLM
 
 *Bridging the gap between AI and cultural understanding*
 
