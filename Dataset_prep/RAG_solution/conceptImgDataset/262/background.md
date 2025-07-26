@@ -1,0 +1,23 @@
+
+# Wikipedia: Ras El Tin Palace
+Ras El Tin Palace (Egyptian Arabic: قصر راس التين Qaṣr Ras El Tīn, literally, "Cape Fig Palace") is a palace on the coast of the Mediterranean Sea in Alexandria, Egypt. It is one of the official residences for a serving President of Egypt. Under the Muhammad Ali Dynasty of Egypt and Sudan, it was a royal palace. Ras El Tin Palace is the oldest royal Egyptian palace still in use.
+
+History
+The palace is located in the Ras el-Tin quarter of Alexandria overlooking the city's Western Harbour. It was built on a promontory which in antiquity had been the site of the island of Pharos. The palace has a long historical association with Egyptian royalty. It is one of few palaces in Egypt to witness the initiation of the long-lasting Muhammad Ali dynasty by Muhammad Ali Pasha (r. 1805–1848) during the early 19th century. A number of foreign architects and engineers were commissioned by Muhammad Ali for the design and construction of the palace. Building activities began in 1834, taking eleven years to complete the original design in 1845. Complementary work and the construction of additional wings continued for three more years until 1848, when it was officially inaugurated during the reign of Ibrahim Pasha.
+Built on a rise above the harbour on the eastern seashore of Alexandria, the palace is one of a number of construction developments in the city initiated by Muhammad Ali to serve as a vice-regal palace. Initially based on the shape of a Roman fort, the palace was given a classical portico. It is said by tradition to be the site of negotiations between Muhammad Ali and Admiral Sir Charles Napier during the Oriental Crisis of 1840. The palace was used as a royal summer residence by the Muhammad Ali dynasty and as a government headquarters. During the Anglo-Egyptian War of 1882, a British naval landing party led by Captain Jacky Fisher was quartered in the palace. Fisher described it as "very magnificent, but a mass of fleas and dirt". A seaplane base was established next to the palace during the period of British rule in Egypt as part of the British naval base at Alexandria. Following the Egyptian Revolution of 1952 the penultimate monarch of Egypt and Sudan, King Farouk, sought refuge in the palace where he was besieged by Egyptian army forces. Farouk signed his abdication in the palace and departed from it to leave Egypt and go into exile. The palace was subsequently nationalized, as were the other former royal palaces in the country. It was used as a presidential residence and for hosting state guests.
+
+Style
+Ras El Tin Palace has the shape of a large Italian Renaissance palace, with architectural elements and ornamentation inspired by that era, along with Baroque and Moorish elements. It was erected on a foundation of 17,000 square metres (4.2 acres), surrounded by elaborate gardens of 12 feddans (13 acres). Fig trees (Arabic – teen) were already on the palace site, inspiring its name Ras Al-Teen. Through the reign of successive kings the complex was used as their residence and the government headquarters during the summer season.
+Various rulers made changes to the palace. It was totally reconstructed by King Fuad I in the 1920s, with modern services and redecoration making it similar to the opulent Abdeen Palace (built 1863), the larger royal complex in central Cairo. The interior décor combined Renaissance elements with Byzantine, French and Modern. The redesign and construction was overseen by the Italian engineer Ernesto Verrucci Bey. The palace included a swimming pool with a large attached glass pavilion hall. Much of the opulent furniture during this redecoration was supplied by the Parisian ébéniste, François Linke, on a scale not seen since Versailles 200 years earlier. At one end of the building was the harem, but this had become disused.
+After the Second World War, King Farouk had a marine pool built on the Mediterranean breakwater. The pool was linked to Ras Al-Teen with a narrow and long paved lane atop the breakwater, with a jeep used to pass through waves breaking over it. The adjacent pool house included a sitting room, bed chamber, fully equipped small kitchen, and rooms for staff and storing recreation and fishing gear.
+
+Current usage
+The formal garden is open to the public, but not the palace itself. A naval base is located next to the palace. The palace has been used for hosting state guests and events in recent years. There is no public museum, unlike the Montaza Palace royal gardens and museum, also in Alexandria.
+
+See also
+List of palaces in Egypt
+Royal Jewelry Museum – Fatma Al-Zahra Palace (Alexandria)
+
+References and notes
+
+ Media related to Ras el-Tin Palace at Wikimedia Commons

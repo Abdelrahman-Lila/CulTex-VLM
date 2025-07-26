@@ -1,0 +1,39 @@
+
+# Wikipedia: Blue Hole (Red Sea)
+The Blue Hole is a diving location on the southeast Sinai, a few kilometres north of Dahab, Egypt on the coast of the Red Sea.
+The Blue Hole is a submarine sinkhole, with a maximum depth within the hole of just over 100 m (328 feet). There is a shallow opening to the sea around 6 m (20 feet) deep, known as "the saddle", and a 26 m (85 feet) long tunnel, known as "the Arch", whose ceiling is at a depth of 55 m (181 feet) and whose bottom falls away as it reaches the seaward side to about 120 m (394 feet). On the seaward side the floor drops steeply to over 1,000 metres (3,300 ft). The hole and the surrounding area have an abundance of coral and reef fish. The Blue Hole is popular for freediving because of the depth directly accessible from shore and the lack of current.
+The dive site is reputed to have the most diver fatalities in the world with estimates of between 130 and 200 fatalities in recent years.
+
+Diving history
+The Blue Hole was historically avoided by Bedouin tribes people who inhabited the area.
+The Sinai Peninsula was occupied by Israel from the Six-Day War of 1967 until it was returned to Egypt by Israel under the Egypt–Israel peace treaty in 1979. During the Israeli occupation, the Blue Hole developed a significant international reputation as a dive site. In 1968 a group of Israeli divers led by Alex Shell were the first to dive the hole with modern scuba diving equipment. During the dive, they noticed the underwater arch.
+Since 1982 the Blue Hole has become very busy and is dived almost every day by recreational divers. Local dive centres take appropriately qualified divers to 30 m (AOW level or CMAS**) at the El Bells or Bells to Blue Hole sites. The Bells entry is from the shore further along from the Blue Hole. At 26 m at the bottom of the Bells is a mini arch that should not be confused with the arch in the Blue Hole itself. The dive is then a wall dive that finishes by crossing the Blue Hole saddle at a depth of 7 m. Recreational divers do not get to see the Blue Hole arch when doing the Bells to Blue Hole dive.
+
+Fatalities
+The Blue Hole itself is no more dangerous than any other Red Sea dive site but diving through the Arch, a submerged tunnel, which lies within the Blue Hole site, is an extreme dive that has resulted in many accidents and fatalities.
+The number of Blue Hole fatalities is not accurately recorded; one source estimates 130 divers died during the fifteen-year period from 1997 to 2012, averaging over eight per year, another claims as many as 200. This includes some snorkelling deaths at the surface unrelated to diving the Arch. The Egyptian Chamber For Diving & Watersports now stations a policeman at the Blue Hole to ensure divers are diving with a certified guide who will make sure safety procedures are followed.
+The ceiling of the Arch is 55 m (170 ft) deep, which requires suitable training and equipment as 40 metres is generally considered the limit for recreational diving. The Arch presents little problem for suitably equipped and competent technical divers. The main challenge is gas management because any delays or errors at this depth, plus the time to negotiate the horizontal section, will need more than a single tank of breathing gas to do safely. If gas is not carefully planned the diver may lack sufficient gas for the decompression stops or run out of gas altogether.
+The main reasons suggested for the accident rate include that the:
+
+Notoriety of the site attracts divers and presents a challenge that tempts many who lack the necessary competence.
+Accessibility of the site and the clear, warm waters of the Red Sea makes the dive look more benign than it is. At over 55 m, and with an overhead environment, the dive requires competence usually associated with moderately advanced technical certification; local dive operations require a Tech 60 as a minimum qualification, unless you are on a Tech 60 course with them.
+The entry to the Arch is not easy to find because of the indirect line between the Blue Hole and open water. Divers who miss the entry may inadvertently continue to descend past it, while the floor continues on down to well over 100 m providing no visual depth reference.
+Time taken to pass through the Arch may be underestimated. The tunnel appears shorter than it actually is because of the clarity of the water, the light at the outside end and the lack of reference points; divers report that the tunnel appears to be less than 10 m long but has been measured as 26 m.  Moreover, there is frequently a current flowing inward through the arch into the Blue Hole, increasing the time it takes to swim through and increasing gas consumption.
+Depth and the time taken to find and navigate the tunnel inevitably makes this a decompression dive requiring decompression stops on ascent in order to avoid decompression sickness (DCS). Also, the rate of diving gas consumption increases with depth and effort, which can lead to divers running out of gas or beginning the ascent with insufficient gas to make the decompression stops required.
+The likelihood of nitrogen narcosis causing confusion leading to poor judgement in an already demanding situation is significant at this depth. Although the effects of nitrogen narcosis may be mitigated by using trimix or heliox the Arch is insufficiently deep to make these mixes obligatory and helium may not be available at the site.
+Temptation to dive on a single gas tank. The Arch has been dived on single, 11-litre tanks multiple times, but this is dangerously close to the minimum gas requirement for the dive and depends on a fit and relaxed diver with a low gas consumption rate committing no errors or hesitations during the dive. Diving the Arch without a stage tank and without adequate gas planning has resulted in drowning or DCS.
+
+Death of Yuri Lipski
+A notable death was that of Yuri Lipski, a 22-year-old Russian diving instructor, on 28 April 2000 at a depth of 115 metres after an uncontrolled descent. Lipski carried a video camera, which filmed his death. This has made it one of the most well-known diving deaths in the world. The video shows Lipski initiate a voluntary, uncontrolled descent, eventually landing on the sea floor at 115 metres where he panics, removes his regulator and tries to fill his buoyancy compensator but is unable to rise.  At 115 m he would have been subject to severe nitrogen narcosis, which may have impaired his judgement, induced hallucinations and caused panic and confusion. Lipski had a single tank assumed to be air.
+
+Lipski's body was recovered the following day by Tarek Omar, one of the world's foremost deep-water divers, at the request of Lipski's mother. Omar had earlier warned Lipski twice against attempting the dive. On the bottom, Omar found Lipski's helmet camera, still intact. The video it contained is available on YouTube, entitled "Fatal Diving Accident Caught On Tape". Omar says: Two days after we recovered his remains and gave [his mother] his belongings and equipment, she came to me asking that I help her disassemble them so she can pack them. The camera should have been damaged or even broken altogether because I had found it at a depth of 115 metres, and it is only designed to sustain 75 metres; but, to my surprise, the camera was still working. We played it and his mother was there. I regret that his mother will have this forever... If I had known the footage existed I’d have flooded it. I think the thing that really upset and saddened me about it was that his mom has it now – she has the footage of her own son drowning.
+
+In media
+Documentaries about diver deaths at the Blue Hole include:
+
+Sacred Truth: The Blue Hole of Dahab (2004), by Elena Konstantinou and Svetlana Klenova, NTV (Russia)
+Monty Halls' Dive Mysteries: The Curse of the Blue Hole (2013), by Monty Halls, Channel 5 (UK)
+The Deepest Breath (2023) by Laura McGann
+
+
+== References ==
