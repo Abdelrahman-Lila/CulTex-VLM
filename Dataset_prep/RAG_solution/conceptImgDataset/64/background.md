@@ -1,0 +1,41 @@
+
+# Britannica:
+Saint Catherine's Monastery is a Greek Orthodox monastery on Mount Sinai,
+situated more than 5,000 feet (1,500 metres) above sea level in a narrow
+valley north of Mount Mūsā in the Sinai Peninsula. The building of the
+monastery dates from 530 CE, when Justinian I, a Byzantine emperor, built it
+after complaints of robber incursions from the hermit monks who had settled
+there. He fortified the traditional site where Moses observed the burning bush
+on the lower slopes of Mount Sinai.
+
+### History and Significance
+
+The monastery provided refuge for scattered communities of Christians
+threatened by the rise of Islam during the 7th century. According to
+tradition, the monks spared by the Muslims conciliated the invaders by
+erecting a small mosque within the walls, where local Bedouin Arabs still
+worship. During the Middle Ages, it was a pilgrimage centre, and it still
+retains much of its original appearance with an unbroken history since the 6th
+century. The monastery is considered the world’s oldest continuously inhabited
+Christian monastery. In 2002, it was designated a UNESCO World Heritage site.
+
+### Treasures
+
+The monastery's greatest treasures are its icons, some painted before the 8th
+century, and its manuscripts, which are mainly Greek and Arabic. Housed in a
+library built in 1945, the manuscript collection includes the Codex Syriacus,
+a Syriac text of the Gospels written about 400. A nearly complete Codex
+Sinaiticus, a Greek manuscript of the Bible dating from the 4th century that
+formerly belonged to St. Catherine’s, is now in the British Museum in London.
+
+
+
+## Britannica: Saint Catherine’s Monastery | Location, History, & Facts | Britannica
+Saint Catherine’s Monastery,  Greek Orthodox monastery situated on Mount Sinai more than 5,000 feet (1,500 metres) above sea level in a narrow valley north of Mount Mūsā in the Sinai peninsula. Often incorrectly called the Sinai Independent Greek Orthodox Church, the monastic foundation is the smallest of the autonomous churches that together constitute the Eastern Orthodox church. The abbot of the monastery, who is also the archbishop of Sinai, Paran, and Raithu, is elected by the brotherhood and consecrated by the Greek Orthodox patriarch of Jerusalem. One of its early abbots was St. John Climacus. The monastery was at first under the jurisdiction of the Jerusalem patriarch; its independence was recognized by Constantinople in 1575. The number of monks is limited to 36; this figure includes those living in annexes (metochia) elsewhere, which today are chiefly at Cairo and Suez in Egypt. The laity of the Church of Sinai are some Christian Arabs employed by the monastery and fishermen on the Red Sea coast at al-Ṭūr (Tor, formerly Raithu). The Muslim Bedouin Arabs who live near the monastery have always acted as its guards and have in turn been supported by it.
+Founded in 527 by the Byzantine emperor Justinian I, the building of the monastery dates from 530 ce, when Justinian, after complaints of robber incursions from the hermit monks who had settled there, fortified the traditional site of the burning bush observed by Moses on the lower slopes of Mount Sinai. During the 7th century the monastery provided a centre of refuge for scattered communities of Christians threatened by the rise of Islam. Spared by the Muslims, the monks, according to tradition, conciliated the invaders by erecting the small mosque within the walls where local Bedouin Arabs still worship. The monastery was a pilgrimage centre during the Middle Ages. St. Catherine’s still retains much of its original appearance and has had an unbroken history since the 6th century. The original gray granite walls (280 by 250 feet [85 by 76 metres]) still stand, and so does the church dedicated to the Virgin Mary, which was built at the same time. In the apse is a restored mosaic of the Transfiguration, also dating from the early Byzantine period.
+The monastery’s greatest treasures are its icons, some of which were painted before the 8th century, and its manuscripts. These, housed in a library built in 1945, are mainly Greek and Arabic. In 1949–50 most of the manuscripts were microfilmed by the American Foundation for the Study of Man, acting on behalf of the Library of Congress in Washington, D.C., and with the assistance of the University of Alexandria. The manuscript collection includes the Codex Syriacus, a Syriac text of the Gospels written about 400. A nearly complete Codex Sinaiticus, a Greek manuscript of the Bible dating from the 4th century that formerly belonged to St. Catherine’s, is now in the British Museum in London. In 1975 workmen accidentally penetrated a wall and discovered behind it a trove of some 3,000 additional manuscripts, including ancient biblical texts and other documents known but long lost, along with assorted works of art. Among the find were missing parts of the Codex Sinaiticus, some 50 other incomplete codexes and 10 nearly complete ones, and other Greek texts in uncial script that shed new light on the history of Greek writing. Even more numerous documents were found in various Semitic, Afro-Asiatic (formerly Hamito-Semitic), and Indo-European languages, dating from the 6th century and earlier. The monastery was designated a UNESCO World Heritage site in 2002.
+
+## Britannica: Mount Sinai | Map, Location, Height, & Facts | Britannica
+Mount Sinai,  granitic peak of the south-central Sinai Peninsula, Janūb Sīnāʾ (South Sinai) muḥāfaẓah (governorate), Egypt. Mount Sinai is renowned as the principal site of divine revelation in Jewish history, where God is purported to have appeared to Moses and given him the Ten Commandments (Exodus 20; Deuteronomy 5). According to Jewish tradition, not only the decalogue but also the entire corpus of biblical text and interpretation was revealed to Moses on Sinai. The mountain is also sacred in both the Christian and Islamic traditions. Because scholars differ as to the route of the Israelite exodus from Egypt and the place-names in the scriptural account cannot be identified in terms of present sites, a positive identification of the biblical Mount Sinai cannot be made. Mount Sinai itself, however, has long been accepted as the site in the traditions of Judaism, Christianity, and Islam.
+In the early Christian era the area was frequented by hermits, and in 530 ce the monastery of St. Catherine was built at the northern foot of the mountain. Still inhabited by a few monks of the autonomous Orthodox Church of Mount Sinai, it is probably the world’s oldest continuously inhabited Christian monastery (see Saint Catherine’s). Its library of ancient biblical manuscripts, including the famous 4th-century Greek Codex Sinaiticus (now in the British Museum), has been invaluable in reconstructing the text of the Bible.
+The mountain, which rises to 7,497 feet (2,285 metres) above sea level, was under Israeli administration from the Six-Day War of 1967 until 1979, when it was returned to Egypt. It has become an important pilgrim and tourist site.

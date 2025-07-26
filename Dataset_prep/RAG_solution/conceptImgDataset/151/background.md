@@ -1,0 +1,33 @@
+
+# Wikipedia: Al-Salih Tala&#039;i Mosque
+The Mosque of al-Salih Tala'i (Arabic: مسجد الصالح طلائع) is a late Fatimid-era mosque built by the vizier Tala'i ibn Ruzzik in 1160. It is located south of Bab Zuweila, just outside the southern entrance to the old walled city of Cairo.
+
+History
+Construction and context
+The mosque was commissioned by Tala'i ibn Ruzzik, the vizier of the Fatimid Caliphate,  in 1160. Tala'i was one of the last powerful and competent viziers who maintained a level of stability in the Fatimid empire in its last decades. As the Fatimid Caliphate was abolished in 1171, this mosque is the last major Fatimid monument to have been built (and which still survives). Some of the mosque's original decorative elements continued to appear in post-Fatimid architecture in Cairo.
+The Fatimid dynasty were Isma'ili Shi'a Muslims claiming descent from the Islamic prophet Muhammad, and the mosque was originally built to be the resting place of the head of Husayn, the son of Muhammad's cousin and son-in-law Ali, who was slain at the Battle of Karbala in 680 and is revered as a martyr by Shi'as. His head was originally believed to be interred at Ascalon, but it was brought to Cairo in 1153 when Ascalon was threatened by the Crusaders. However, the head ended up being kept in a shrine at the Fatimid palace instead, the site of which later became the al-Hussein Mosque where the shrine remains today.
+
+Mamluk restoration
+The mosque was restored in the Mamluk era after an earthquake in 1303 which destroyed the minaret that stood over the front porch of the mosque. At this time bronze facings in the Mamluk style were added to the original main doors which had been carved in wood. Today the doors are replaced by replicas while the originals, featuring both the Mamluk bronze-faced and Fatimid wood-carved facades, are on display at Cairo's Museum of Islamic Art. The Mamluk restoration also added wooden mashrabiyya screens to the portico fronting the mosque, as still visible today. The minbar inside the mosque is also from the Mamluk period, dated to 1299–1300, and was a gift of the Mamluk amir Baktimur al-Jugandar and is now one of the oldest surviving minbars in Cairo.
+
+Modern era and present day
+The mosque was heavily restored in the early 20th century from near-ruin by the Comité de Conservation des Monuments de l'Art Arabe, but much of the original building survives. Today, the base of the mosque (along with the shops that once lined its exterior) is nearly two metres below the current street level, illustrating how much the street level has risen in the city since the 12th century.
+
+Architecture
+Exterior and general layout
+The mosque was constructed on a raised platform whose base, at street level, had built-in alcoves on three sides (all except the qibla side) designed to host shops which contributed to the revenue of the mosque. It was thus the first "hanging" mosque in Cairo, which is to say a mosque where the prayer space is raised above street level. The mosque has three entrances: a front entrance to the northwest and two lateral entrances on the sides. The front (northwestern) entrance is fronted by a portico with five arches, a feature which was unique in Cairo (at least before the much later Ottoman period) and might have been intended either as a royal viewing platform for processions through Bab Zuweila or for some other ceremonial purpose if the head of Husayn had been buried here as intended. The ceiling directly behind or inside the portico is original and is one of the only ceiling of its kind preserved from the Fatimid period. As mentioned above, the wooden doors at the entrance of the mosque today are replicas of the originals, now in the Museum of Islamic Art. Originally, a minaret also rose above the entrance of the mosque, but was destroyed in the 1303 earthquake. A later minaret added during the Ottoman period was eventually removed during the 20th-century restoration.
+
+The exterior walls are decorated with keel arch-shaped recesses that appear besides the portico and along the sides of the mosque, providing some visual unity with the keel arches of the front portico. These blind arches once had windows set within them, but these have been walled up. Other decorations on the walls include carved moldings and several horizontal bands containing Kufic Arabic inscriptions, including one that ran along the very top of the façade but has largely disappeared today. Fragments of stucco-carved crenellations that once ran along the top of the walls can be seen on the northeast side. At both ends of the northwest wall are chamfered corners with muqarnas, a feature that had previously been used at the al-Aqmar Mosque (late 11th century).
+
+Interior
+The mosque's interior features a courtyard surrounded by an arcade of keel-shaped arches, with the qibla side (south-east side) extending deeper to form a prayer hall three rows deep. The arcade on the northwest side (the main entrance side) was not part of the mosque's original plan and was mistakenly added during the 20th-century Comité restoration. The interior decoration includes carved wooden tie-beams between columns, Qur'anic inscriptions in Kufic style on the outlines of the arches in the prayer hall, and window grilles carved in stucco. Many of the Kufic inscriptions around the arches have now disappeared, but the remaining examples in the prayer hall demonstrate a very ornate late-Fatimid style in which the letters are carved against a background of vegetal arabesques. The wall surfaces above the arches are additionally decorated with carved niches and rosettes. Some of the original stucco window grilles have survived in situ and some have been moved to the Museum of Islamic Art in Cairo. Rectangular or square grilles, also ornately carved in stucco, are set above the window arches. The capitals of the columns in the prayer hall are all re-used from pre-Islamic buildings. The mihrab (niche symbolizing the qibla) is not the original Fatimid mihrab but was redecorated with painted wood during the Mamluk restoration. The minbar next to it is also from the Mamluk period. It has excellent craftsmanship and is one of the oldest surviving minbars in Cairo. A rectangular opening in the wall next to the mihrab, again framed with stucco decoration, was not a window but a malqaf, a windcatcher, connected by a shaft to an opening in the roof, now closed.
+
+See also
+Lists of mosques
+List of mosques in Africa
+List of mosques in Egypt
+
+References
+External links
+
+Creswell's photo of the mosque's entrance and minaret (prior to the mosque's 20th century restoration), V&A collection

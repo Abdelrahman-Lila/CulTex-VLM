@@ -1,0 +1,136 @@
+1. Concept 'Great Pyramid of Giza' Already Exists as:
+  id                             Concept has_background
+1  1  Mortuary Temple of Seti I in Qurna           True
+------------------
+1. Concept 'Wadi el Gemal National Park' Already Exists as:
+  id         Concept has_background
+3  3  Wadi el-Raiyan           True
+------------------
+1. Concept 'Colossi of Memnon' Already Exists as:
+  id                             Concept  has_background
+1  1  Mortuary Temple of Seti I in Qurna            True
+------------------
+1. Concept 'Pyramid of Unas' Already Exists as:
+  id                             Concept has_background
+1  1  Mortuary Temple of Seti I in Qurna           True
+------------------
+1. Concept 'Qaed Ibrahim Mosque' Already Exists as:
+    id              Concept  has_background
+54  54  Qaed Ibrahim Mosque            True
+------------------
+1. Concept 'Deir el-Medina' Already Exists as:
+    id                                       Concept  has_background
+69  69  Ptolemaic Temple of Hathor in Deir el-Medina            True
+------------------
+1. Concept 'Bibliotheca Alexandrina planetarium' Already Exists as:
+    id                  Concept  has_background
+35  35  Bibliotheca Alexandrina            True
+------------------
+1. Concept 'Pyramid of Senusret I' Already Exists as:
+      id                 Concept  has_background
+111  111  Pyramid of Senusret II            True
+------------------
+1. Concept 'Collections of the Imhotep Museum in Saqqara' Already Exists as:
+      id  Concept  has_background
+171  171  Saqqara            True
+------------------
+1. Concept 'Rhoda Island' Already Exists as:
+      id                    Concept has_background
+146  146  Nilometer in Rhoda Island           True
+------------------
+1. Concept 'Pyramid of Amenemhat I' Already Exists as:
+    id                             Concept has_background
+89  89  Pyramid of Amenemhat III in Hawara           True
+------------------
+1. Concept 'Pyramid of Pepi I' Already Exists as:
+      id             Concept  has_background
+217  217  Pyramid of Pepi II            True
+------------------
+1. Concept 'Gezira Center for Modern Art' Already Exists as:
+      id Concept  has_background
+101  101  Gezira            True
+------------------
+1. Concept 'Al-Fath Mosque' Already Exists as:
+      id         Concept  has_background
+255  255  Al-Fath Mosque            True
+------------------
+1. Concept 'Gezira Center for Modern Art' Already Exists as:
+      id Concept has_background
+101  101  Gezira           True
+------------------
+1. Concept 'Al-Fath Mosque' Already Exists as:
+      id         Concept  has_background
+255  255  Al-Fath Mosque            True
+------------------
+1. Concept 'Gezira Center for Modern Art' Already Exists as:
+      id Concept has_background
+101  101  Gezira           True
+------------------
+1. Concept 'Deir el-Medina' Already Exists as:
+    id                                       Concept  has_background
+69  69  Ptolemaic Temple of Hathor in Deir el-Medina            True
+------------------
+1. Concept 'Bibliotheca Alexandrina planetarium' Already Exists as:
+    id                  Concept has_background
+35  35  Bibliotheca Alexandrina           True
+------------------
+1. Concept 'Pyramid of Senusret I' Already Exists as:
+      id                 Concept has_background
+111  111  Pyramid of Senusret II           True
+------------------
+1. Concept 'Collections of the Imhotep Museum in Saqqara' Already Exists as:
+      id  Concept has_background
+171  171  Saqqara           True
+------------------
+1. Concept 'Rhoda Island' Already Exists as:
+      id                    Concept has_background
+146  146  Nilometer in Rhoda Island           True
+------------------
+1. Concept 'Pyramid of Amenemhat I' Already Exists as:
+      id                             Concept has_background
+89    89  Pyramid of Amenemhat III in Hawara           True
+223  223      Black Pyramid of Amenemhat III           True
+239  239       White Pyramid of Amenemhat II           True
+------------------
+1. Concept 'Pyramid of Pepi I' Already Exists as:
+      id             Concept has_background
+217  217  Pyramid of Pepi II           True
+------------------
+1. Concept 'Gezira Center for Modern Art' Already Exists as:
+      id Concept has_background
+101  101  Gezira           True
+------------------
+1. Concept 'Deir el-Medina' Already Exists as:
+    id                                       Concept  has_background
+69  69  Ptolemaic Temple of Hathor in Deir el-Medina            True
+------------------
+1. Concept 'Bibliotheca Alexandrina planetarium' Already Exists as:
+    id                  Concept  has_background
+35  35  Bibliotheca Alexandrina            True
+------------------
+1. Concept 'Pyramid of Senusret I' Already Exists as:
+      id                 Concept  has_background
+111  111  Pyramid of Senusret II            True
+------------------
+1. Concept 'Collections of the Imhotep Museum in Saqqara' Already Exists as:
+      id  Concept  has_background
+171  171  Saqqara            True
+------------------
+1. Concept 'Rhoda Island' Already Exists as:
+      id                    Concept  has_background
+146  146  Nilometer in Rhoda Island            True
+------------------
+1. Concept 'Pyramid of Amenemhat I' Already Exists as:
+      id                             Concept  has_background
+89    89  Pyramid of Amenemhat III in Hawara            True
+223  223      Black Pyramid of Amenemhat III            True
+239  239       White Pyramid of Amenemhat II            True
+------------------
+1. Concept 'Pyramid of Pepi I' Already Exists as:
+      id             Concept  has_background
+217  217  Pyramid of Pepi II            True
+------------------
+1. Concept 'Gezira Center for Modern Art' Already Exists as:
+      id Concept  has_background
+101  101  Gezira            True
+------------------

@@ -1,0 +1,280 @@
+,id,Concept,has_background
+0,0,Bab al-Nasr (Cairo),True
+1,1,Mortuary Temple of Seti I in Qurna,True
+2,2,Umm Kulthum Museum,True
+3,3,Wadi el-Raiyan,True
+4,4,Al-Shate'e Mosque,False
+5,5,Bayt Al-Suhaymi,True
+6,6,Na'ama Bay,True
+7,7,Elephantine,True
+8,8,Siwa,True
+9,9,Cairo Citadel,True
+10,10,Mastabat al-Fir'aun,True
+11,11,Great Hypostyle Hall of Karnak,True
+12,12,Wadi Degla,True
+13,13,Abu Haggag Mosque,True
+14,14,Gayer-Anderson Museum,True
+15,15,Bab Zuwayla,True
+16,16,Bagawat,False
+17,17,Temple of Seti I in Abydos,True
+18,18,Sehel Island,True
+19,19,Karnak precinct of Amun-Ra,True
+20,20,Pyramid of Djoser,True
+21,21,Pyramid of Djedefra,True
+22,22,KV17,True
+23,23,Al-Ashraf Mosque,True
+24,24,Temple of Kom Ombo,True
+25,25,City of the dead (Cairo),True
+26,26,Egyptian Museum (Cairo),True
+27,27,Saint George Church in Coptic Cairo,True
+28,28,Red Pyramid,True
+29,29,El Ferdan Railway Bridge,True
+30,30,Qasr Qarun,True
+31,31,Kitchener's Island,False
+32,32,Sulayman Agha al-Silahdar Mosque,True
+33,33,Temple of Hibis,True
+34,34,Valley of the Golden Mummies,True
+35,35,Bibliotheca Alexandrina,True
+36,36,Unfinished obelisk in Aswan,True
+37,37,Sabil of Abd al-Rahman Katkhuda,True
+38,38,Agiba beach,True
+39,39,Gebel el-Silsila,True
+40,40,Muizz Street,True
+41,41,Monastery of Saint Bishoy,True
+42,42,Osireion,True
+43,43,Pyramid of Khafra,True
+44,44,Soma Bay,True
+45,45,Madrasah of Sarghatmish,True
+46,46,Corniche (Alexandria),True
+47,47,"St. Catherine's Cathedral, Alexandria",True
+48,48,Giza pyramid complex,True
+49,49,Monastery of Saint Anthony,True
+50,50,Alexandria Opera House,True
+51,51,Sphinx of Memphis,True
+52,52,Grand Egyptian Museum,True
+53,53,Kom el-Shoqafa,True
+54,54,Qaed Ibrahim Mosque,True
+55,55,Khayrbak Mosque,True
+56,56,Ramesseum,True
+57,57,Al-Qurn,False
+58,58,"Garden City, Cairo",True
+59,59,Tomb of Nefertari,True
+60,60,Monastery of Saint Simeon in Aswan,False
+61,61,Temple of Isis in Philae,True
+62,62,Blue Hole (Red Sea),True
+63,63,Baron Empain Palace,True
+64,64,"Saint Catherine's Monastery, Mount Sinai",True
+65,65,Faiyum Zoo,True
+66,66,Aguilkia Island,True
+67,67,Hanging Church (Cairo),True
+68,68,Qubbet el-Hawa,True
+69,69,Ptolemaic Temple of Hathor in Deir el-Medina,True
+70,70,Tomb of Nakht TT52,True
+71,71,Abdeen Palace,True
+72,72,Egyptian National Military Museum,True
+73,73,Madrasah of Al-Nasir Muhammad,True
+74,74,Al-Manyal Palace Museum,False
+75,75,Monastery of Saint Samuel the Confessor,True
+76,76,Meidum,True
+77,77,Abu el-Abbas el-Mursi Mosque,True
+78,78,Theban Necropolis,True
+79,79,Citadel of Qaitbay,True
+80,80,Nabq Protected Area,True
+81,81,Mosque of al-Mahmudiya,True
+82,82,Al-Jawhara Palace museum,True
+83,83,Aswan High Dam,True
+84,84,Mortuary Temple of Hatshepsut,True
+85,85,Deir el-Bahari,True
+86,86,El Alamein Military Museum,True
+87,87,"Pompey's Pillar, Alexandria",True
+88,88,Esna Temple,True
+89,89,Pyramid of Amenemhat III in Hawara,True
+90,90,Great Sphinx of Giza,True
+91,91,Rahmanyia island,True
+92,92,Al-Azhar Park (Cairo),True
+93,93,Deir el-Muharraq,True
+94,94,"Shalalat Garden, Alexandria",True
+95,95,Eliyahu Hanavi Synagogue (Alexandria),True
+96,96,Orman Garden,True
+97,97,Fatimid Cemetery in Aswan,True
+98,98,Famine stele,True
+99,99,Mokattam,True
+100,100,Aquarium Grotto Garden,True
+101,101,Gezira,True
+102,102,Mausoleum of Aga Khan,True
+103,103,Great Temple of the Aten,True
+104,104,Qasr al-Nil Bridge,True
+105,105,Temple of Khonsu in Karnak,True
+106,106,Beni Hassan,True
+107,107,Kiosk of Trajan in Philae,False
+108,108,Khan el-Khalili,True
+109,109,Luxor Temple,True
+110,110,Suez Canal Bridge,True
+111,111,Pyramid of Senusret II,True
+112,112,Pyramid of Neferirkare,True
+113,113,Pyramid of Qakare Ibi,True
+114,114,Giza Plateau,True
+115,115,Sultan Qaytbay Complex,True
+116,116,Pyramid of Menkaure,True
+117,117,Amr Ibn al-Aas Mosque (Damietta),True
+118,118,Montaza Palace,True
+119,119,6 October Bridge,True
+120,120,Ben Ezra Synagogue,True
+121,121,Bent Pyramid,True
+122,122,"Crystal Mountain, White Desert",True
+123,123,Pyramid of Djedkare Isesi,True
+124,124,Alexandria Zoo,True
+125,125,Monastery of Saint Macarius the Great,True
+126,126,Pyramid of Userkaf,True
+127,127,Valley of the Queens,True
+128,128,Cairo International Stadium,True
+129,129,Sakakini Palace,True
+130,130,Dendera Temple complex,True
+131,131,Islamic Cairo,True
+132,132,Ras Muhammad,True
+133,133,Mosque of al-Maridani,True
+134,134,"Greco-Roman Museum, Alexandria",True
+135,135,Synagogue of Moses Maimonides,True
+136,136,Mosque of Saint Ibrahim El-Desouky,False
+137,137,Al-Sayeda Nafeesah Mosque,True
+138,138,Saint Barbara Church in Coptic Cairo,True
+139,139,Temple of Derr,True
+140,140,Alexandria Port,True
+141,141,Mosque-Madrassa of Sultan Hassan,True
+142,142,Bab al-Futuh,True
+143,143,Qalawun complex,True
+144,144,"Saint Mark's Coptic Orthodox Cathedral, Cairo",True
+145,145,Coptic Museum in Cairo,True
+146,146,Nilometer in Rhoda Island,True
+147,147,San Stefano Grand Plaza,True
+148,148,Mohandessin,False
+149,149,Speos Artemidos,True
+150,150,Pyramid of Khendjer,True
+151,151,Al-Salih Tala'i Mosque,True
+152,152,Mallawi Museum,True
+153,153,Amir Taz Palace,True
+154,154,Pyramid of Sahure,True
+155,155,Al-Rifa'i Mosque,True
+156,156,Mosque of Qajmas al-Ishaqi,False
+157,157,Nyuserre sun temple,True
+158,158,Luxor Museum,True
+159,159,Aswan Low Dam,True
+160,160,Tomb of Kheruef,False
+161,161,Sadat museum,True
+162,162,Temple of Isis in Deir el-Shelwit,True
+163,163,Al-Aqmar Mosque,True
+164,164,White Monastery,True
+165,165,Antoniadis Palace,True
+166,166,Mosque of Qanibay al-Rammah,True
+167,167,Muhammad Ali Mosque,True
+168,168,Mosque of Sultan al-Zahir Baybars,True
+169,169,Aswan Botanical Garden,False
+170,170,Kiosk of Qertassi,True
+171,171,Saqqara,True
+172,172,Edfu Temple,True
+173,173,Mortuary Temple of Thutmosis III,True
+174,174,Qurnet Murai,True
+175,175,Paromeos Monastery,True
+176,176,Pyramid of Teti,True
+177,177,Pyramid of Ameni Qemau,True
+178,178,Mosque of Ibn Tulun,True
+179,179,Red Monastery,True
+180,180,Aqsunqur Mosque,True
+181,181,Pyramid of Nyuserre Ini,True
+182,182,Coloured Canyon,True
+183,183,Borg El Arab Stadium,True
+184,184,Egyptian Geological Museum,True
+185,185,"El-Ma'eini mosque, Dumyat",False
+186,186,Pyramid of Khentkaus II,True
+187,187,Saint Mark Coptic Orthodox Church (Heliopolis),True
+188,188,Cairo Opera House,True
+189,189,Deir el-Qadisa Damyana,False
+190,190,"Nubia Museum, Aswan",True
+191,191,WV22,True
+192,192,Shepheard's Hotel,True
+193,193,Ahmed Shawki Museum,True
+194,194,Pyramid of Ahmose,True
+195,195,"Greek Orthodox Cathedral of Evangelismos, Alexandria",True
+196,196,Aswan Museum,True
+197,197,Tomb of Unknown Soldier in Cairo,True
+198,198,"El-Bahr mosque, Dumyat",False
+199,199,"Saints Sergius and Bacchus Church, Cairo",True
+200,200,New Kalabsha,True
+201,201,Mosque of Sultan al-Muayyad,True
+202,202,Egyptian National Library,True
+203,203,Sulayman Pasha Mosque,True
+204,204,Wadi Hammamat,True
+205,205,Al-Ghuri Complex,True
+206,206,Mahmoud Khalil Museum,True
+207,207,Petrified Forest near Maadi,True
+208,208,Hatem Mosque,True
+209,209,Al-Nur Mosque,True
+210,210,Alexandria National Museum,True
+211,211,Alexandria Stadium,True
+212,212,"Museum of Islamic Art, Cairo",True
+213,213,Tomb of Hetepheres,True
+214,214,Syrian Monastery,True
+215,215,Port Said Lighthouse,True
+216,216,Emir Qurqumas complex,True
+217,217,Pyramid of Pepi II,True
+218,218,Museum of Constantine P. Cavafy,True
+219,219,Lake Timsah,True
+220,220,"Cathedral of St. Mark, Alexandria",True
+221,221,Pyramid of Baka,True
+222,222,Fatima Khatun Mosque,True
+223,223,Black Pyramid of Amenemhat III,True
+224,224,"Gebel el-Teir, el-Kharga",False
+225,225,Island of Bigeh,True
+226,226,"Giyushi Mosque, Cairo",True
+227,227,Layer Pyramid,True
+228,228,Pyramid of Merenre Nemtyemsaf I,True
+229,229,Hurghada Grand Aquarium,True
+230,230,KV62,True
+231,231,Dra Abu el-Naga,True
+232,232,Gilf Kebir Plateau,True
+233,233,Green Island (Egypt),True
+234,234,Heliopolis Palace,True
+235,235,EL-Safa Park,True
+236,236,Mosque of Qanibay al-Muhammadi,True
+237,237,Sha'b Abu el-Nuhas,True
+238,238,Pharaon Island,True
+239,239,White Pyramid of Amenemhat II,True
+240,240,Umm el-Qaab,True
+241,241,Dream Park,True
+242,242,Sha'ar Hashamayim Synagogue (Cairo),True
+243,243,Gidi Pass,True
+244,244,Desouk Stadium,True
+245,245,Medinet Madi,True
+246,246,Pyramid of Neferefre,True
+247,247,Bahr Yousef canal,False
+248,248,Abu Qir Bay,True
+249,249,Al-Sayeda Zainab Mosque,False
+250,250,Al Fattah Al Alim Mosque (Cairo),False
+251,251,Sayeda Aisha Mosque,True
+252,252,Port Tewfik Memorial,True
+253,253,Attarine Mosque,True
+254,254,Mosque of Sultan Abu al-Ila,False
+255,255,Al-Fath Mosque,True
+256,256,Pyramid of Seila,True
+257,257,Amada,True
+258,258,Koubbeh Palace,True
+259,259,Relations of Egypt and Italy,True
+260,260,Sohag Stadium,True
+261,261,Userkaf sun temple,True
+262,262,Ras el-Tin Palace,True
+263,263,"Tirbana mosque, Alexandria",False
+264,264,Abu Ghurab,True
+265,265,Great Pyramid of Giza,True
+266,266,Wadi el Gemal National Park,True
+267,267,Colossi of Memnon,True
+268,268,Pyramid of Unas,True
+269,269,Children's Civilisation and Creativity Centre,True
+270,270,Giza Zoo,True
+271,271,Deir el-Medina,True
+272,272,Bibliotheca Alexandrina planetarium,True
+273,273,Pyramid of Senusret I,True
+274,274,Collections of the Imhotep Museum in Saqqara,True
+275,275,Rhoda Island,True
+276,276,Pyramid of Amenemhat I,True
+277,277,Pyramid of Pepi I,True
+278,278,Gezira Center for Modern Art,True

@@ -1,0 +1,33 @@
+
+# Wikipedia: Red Monastery
+The Red Monastery (Arabic: الدير الاحمر) or The Monastery of Apa Psoi (Coptic: ⲡⲙⲟⲛⲁⲥⲧⲏⲣⲓⲟⲛ ⲛ̀ⲧⲉ ⲁⲡⲁ ⲡⲯⲟⲓ) is a Coptic Orthodox monastery named after an Egyptian saint named Psoi (Coptic: ⲯⲟⲓ) or Pishoy (Coptic: ⲡⲓϣⲱⲓ), not to be confused with Pishoy, Bishop of Sketis (now the Wadi al-Natrun). It is located near the Upper Egyptian city of Souhag, and about two and a half miles (4.0 km) north-west of the White Monastery. The monastery's name is derived from the colour of the construction material of its outside walls, consisting of red (burnt) brick. These walls are considerably thicker at the base than at the top, and, just like the walls of Egyptian temples, they are surmounted by cavetto moldings. The Red Monastery is architecturally similar to the White Monastery.
+
+Foundation and ancient history
+The history of the foundation of the Red Monastery is not known. It is thought to have been built in the 4th century. by an Egyptian saint called Pishay, a contemporary of Pigol, founder of the White Monastery.
+Almost nothing is known about the history of the Red Monastery near Sohag, though it is one of Egypt's most famous Christian monasteries. It lies about two miles (3.2 km) north of the White Monastery at the extreme western edge of the cultivated land. However, unlike the White Monastery, it is situated in a small village, and some houses lie to the south and east. The area to the north and west of the monastery is mainly covered with debris.
+Its name is derived from the colour of its construction material, consisting of red (burnt) brick, of its outside walls, distinguishing it from its nearby neighbor, the White Monastery, which is made of stone. These walls are considerably thicker at the base than at the top, and like ancient Pharaonic temples, as well as the White Monastery, are surmounted by cavetto moldings. Otherwise, this monastery is architecturally similar to the White Monastery, and most likely, its construction dates to the same period, probably the 5th century.
+The monastery was dedicated to Pshoi. He was a contemporary of Apa Pigol, the founder of the White Monastery. In his Life of Shenute, Besa says, "The holy apa [Pgol] and the young man Shenoute went out walking together, and with them also went Apa Psoi (from Mt. Psoou). He too was a holy man who walked after godly things" (Besa 9, p. 44). Hence, one may identify "Psoou" (Psou) with the Red Monastery.
+While the 15th-century Arab historian al-Maqrizi names the monastery, he provides none of its history. The probable reason is that it was closely related to the White Monastery. Vivant Denon visited the monastery during French invasion of Egypt and Syria in 1798–99, but states that the facility had been ransacked and burned down by the Mamluks of Ottoman Egypt only a few days before his arrival. Currently, the monastery is occupied by only a few monks. The church still serves the Coptic communities of the surrounding villages and pilgrims who come here during the big feasts of the liturgical year.
+
+The churches
+The Church of Saint Pshoi (Bishoi) is situated in the northeastern corner of the monastery. The monastery's principal church was built as a basilica during the second half of the fifth century. Though smaller, It is also architecturally similar to the Church of Saint Shenute in the White Monastery. It, too, is built of red brick rather than stone. Measuring forty-four meters in length by twenty-three meters in width, the church does not have a west narthex like the Church of Shenute, but all other elements are identical. The nave has small side aisles connected on the west, and there are upper galleries, triconch apses and a large rectangular room on the south side of the edifice.
+There are elements within this church, however, that distinguish it from the Church of St. Shenute in the White Monastery. In the White Monastery, considerable building material was robbed from towers dating to the Ptolemaic or Roman period, while in the Church of Saint Pshoi, the portals and columns (bases, shafts and capitals) were made for this building. Also, two columns are added before the chancel. The relative narrowness of the triumphal arch, for reasons of stability, created a discordance between the wide nave and the narrow passage into the chancel, and the two columns were a clever artistic and architectural solution which resolved the aesthetic problems by removing the discrepancy between the dimensions of the nave and those of the entry to the sanctuary. This was such a brilliant idea that it was subsequently used in practically all churches having a narrow entry into the chancel.
+The triconch sanctuary has three apses embellished by two orders of superposed niches separated by small elegant columns. These columns are painted and lend to the spaces' richness and sacredness. There is a motif of a broken tympanum surmounting each niche. Attached to the chancel screen that shields the sanctuary from the public areas are icons of the saints Shenute, Pishoi, and Bgul. The north and south apses have no altars.
+
+Modern history
+The monastery is currently occupied by a rapidly growing number of monks. The several churches (most new) still serve the Copts of the surrounding villages and pilgrims who visit during the big feasts of the Coptic liturgical year. More and more people from the surrounding area now come to the Red Monastery to hear Father Antonius speak.
+Today the Red Monastery is also very significant for art and architectural historians. It includes the only monumental ensemble of architecture, sculpture, and paint (areas fully covered with paint) left from the Greek, Roman and late antique periods in the entire Mediterranean. The paint in the triconch area dates between the late fifth and the late sixth or early seventh century.
+Since 2003, the American Research Center in Egypt has undertaken a restoration and conservation project with grant funding from the United States Agency for International Development. In 2017, a team of architectural conservators, under the direction of Nicholas Warner, completed a conservation project on the keep beside the south wall of the church which revealed an ancient hydraulic system of ceramic pipes.
+
+See also
+Coptic monasticism
+Coptic architecture
+
+References
+The Red Monastery, Univ. of Minnesota
+Red Monastery: Modern Doorway, Univ. of Minnesota
+Hazel Hayer, Restoration for historic monastery gets underway in Egypt, travelvideo.tv
+
+External links
+
+Images from Dr. Enrique Abreu 2010 : Images from both Monasteries
