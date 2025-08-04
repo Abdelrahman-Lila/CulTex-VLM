@@ -3,11 +3,6 @@
 *Bridging the gap between AI and cultural understanding*
 
 A comprehensive framework for evaluating and fine-tuning Vision-Language Models (VLMs) on cultural heritage datasets, with a special focus on Egyptian cultural artifacts and museum collections.
-## CulTeX-VLM (RAG) DEMO  
-[Watch the demo video](https://github.com/python-arch/CulTex-VLM/blob/master/videos/CulTeXVLMDemo.mp4?raw=true)
-
-## MCP DEMO  
-[Watch the demo video](https://github.com/python-arch/CulTex-VLM/blob/master/videos/MCP%20Demo.mp4?raw=true)
 
 ## 🎯 Overview
 
