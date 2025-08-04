@@ -4,7 +4,7 @@
 
 A comprehensive framework for evaluating and fine-tuning Vision-Language Models (VLMs) on cultural heritage datasets, with a special focus on Egyptian cultural artifacts and museum collections.
 ## CulTeX-VLM DEMO
-[Watch the demo video](https://github.com/python-arch/CulTex-VLM/blob/master/MCP%20Demo.mp4?raw=true)
+[Watch the demo video](https://github.com/python-arch/CulTex-VLM/blob/master/CulTeXVLMDemo.mp4?raw=true)
 
 ## MCP DEMO
 [Watch the MCP video](https://github.com/python-arch/CulTex-VLM/blob/master/MCP%20Demo.mp4?raw=true)
